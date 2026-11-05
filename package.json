@@ -1,0 +1,17 @@
+{
+  "name": "a2-english-teacher",
+  "private": true,
+  "type": "module",
+  "description": "A2 English conversation teacher for everyday life and travel.",
+  "scripts": {
+    "check": "tsc --noEmit",
+    "dev": "agent-sdk dev"
+  },
+  "dependencies": {
+    "@grok/agent-sdk": "^0.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "typescript": "6.0.3"
+  }
+}
