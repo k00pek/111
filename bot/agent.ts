@@ -5,9 +5,9 @@ import { defineAgent } from "@grok/agent-sdk";
 // Sessions stay outside this git checkout, so repo rules do not
 // become part of the lesson.
 export default defineAgent({
-  name: "A2 English teacher",
+  name: "B2 English teacher",
   description:
-    "Speaks simple English with one A2 learner about everyday life and travel.",
+    "Speaks simple English with one B2 learner about everyday life and travel.",
   model: {
     id: "grok-4.7",
     params: [
