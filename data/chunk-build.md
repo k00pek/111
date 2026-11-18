@@ -1,45 +1,8 @@
 # Chunk build
 
-One pattern, one verb form, and one slot for each of the 162 chunks in the nuclear list.
+One pattern, one verb form, one slot, and one split mark for each of the 162 chunks in the nuclear list.
+How to build a sentence from a row is in `data/phrase-rules.md`.
 This file does not contain the finished sentences. The bot does not read this file.
-
-Patterns:
-
-- ready. The chunk is already the reply, or the subject is already inside it.
-- subject. Put a subject in front of the chunk. The chunk has its own verb.
-- be. Put a subject and a form of be in front. Use this when be is not already in the chunk. I'm about to leave. It is bound to rain.
-- have. Put a subject and a form of have in front. I have no idea. It has to do with money. For in common, the thing stands between have and the chunk: We have music in common.
-- there. There plus a form of be, then the chunk. There's no sign of rain.
-- question. The sentence is a question. The chunk starts it, or the question is built around the chunk.
-- question with have. Do you have a plan in mind? The thing stands before the chunk.
-- beside. The verb is one verb from the B1 word list, in the named form. The chunk stands at the end and has no object of its own. She left in the end. I did it on my own.
-
-The subject, when the pattern needs one, is one of: I, you, we, they, he, she, it. A person's name works as he or she. It is for a thing. One chunk still makes one sentence, so the sentence uses one subject.
-
-If the chunk itself begins with be, that be takes the form. She is likely to say no.
-
-The form is one of the eight B1 forms when the chunk takes one. A modal, an imperative, or a chunk with no verb keeps its own label: used to, had better, might as well, would like, would, can, could, ought to, imperative, no verb. ", not" means the sentence is negative: I don't care for tea. Past Continuous and Past Perfect Simple are among the eight, and no chunk here takes either one as its form.
-
-Slot:
-
-- none. Nothing follows the chunk.
-- verb. A verb from the B1 word list. After to, and after a modal label, it stays in the base form. keep on, and the verb choice of feel like or get used to, take -ing. In get to do, replace do with that verb.
-- thing, person, place. A noun from the B1 word list. thing or person, thing or verb, and place or verb mean either one fits. none or thing means the sentence can stop without the thing.
-- clause. A short clause.
-- of + thing, with + person, to + place. Say that word before the noun. home, here, and there take no to.
-- before. The thing or person stands in front of the chunk, not after it.
-
-Split:
-
-- yes. A pronoun goes between the verb and the particle: pick me up. A noun goes there or after the particle: pick the keys up, pick up the keys. If the slot says before, the word always stands in front: bear it in mind, take it for granted. On get back, split applies to the thing, not to the place.
-- no. The word stays after the whole chunk: look for him, get on the bus.
-- none. There is no particle to move.
-
-Glue:
-
-- A new countable singular noun takes a or an. the is for the one both speakers already know. A plural or an uncountable noun takes no a.
-- do, does, or did makes a question or a negative in the Present Simple and the Past Simple. be and these modals make the question and the negative without do: can, could, will, would, ought to, had better, might as well, used to. Agreement is I am, I was, I have, I do. you, we, and they use are, were, have, do. he, she, and it use is, was, has, does.
-- one's matches the subject: my, your, his, her, our, their.
 
 ## Duty, plans, and habit
 
