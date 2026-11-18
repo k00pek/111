@@ -3,7 +3,7 @@
 3111 headwords from the alphabetical list of the Cambridge B1 Preliminary vocabulary list, August 2025.
 Cambridge's own last printed total is 3,046 words and phrases, for the 2020 edition. Cambridge does not print a total on the August 2025 list.
 This file keeps the headword only. A slash keeps the other spelling: centre / center. Example sentences from that list are not copied.
-The list is cumulative: it holds A1, A2, and B1 words. The bot does not read this file.
+The list is cumulative: it holds A1, A2, and B1 words.
 Kind uses the list's own short labels: n noun, v verb, av auxiliary, mv modal, adj adjective, adv adverb, prep preposition, conj conjunction, det determiner, pron pronoun, exclam exclamation, phr v phrasal verb, phr phrase, pl plural.
 
 | Word | Kind |

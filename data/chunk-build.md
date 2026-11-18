@@ -2,7 +2,7 @@
 
 One pattern, one verb form, one slot, and one split mark for each of the 162 chunks in the nuclear list.
 How to build a sentence from a row is in `data/phrase-rules.md`.
-This file does not contain the finished sentences. The bot does not read this file.
+This file does not contain the finished sentences.
 
 ## Duty, plans, and habit
 

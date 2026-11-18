@@ -2,7 +2,6 @@
 
 Chunks of two to four words. A short spoken reply can be built on each one.
 This file is the nuclear list only. It is not the draft of replies, and it is not the dictionary.
-The bot does not read this file.
 
 There are 162 chunks. 151 come from the spoken part of the PHRASE List (Martinez and Schmitt, 2012): the items marked most common in spoken British English. 11 are transparent frames from conversation (Biber, Conrad, and Cortes): bundles that occur more than 40 times per million words. Variants of one frame are one chunk. "I don't know what" and "I don't know if" are both "I don't know".
 

@@ -2,7 +2,7 @@
 
 Eight forms a B1 learner uses. The list follows the tense inventory in the Cambridge B1 Preliminary handbook.
 
-This file is that inventory only. It is not a lesson, and it is not a limit on what the learner may say. The bot does not read this file. When a sentence uses a verb, the tense line still names the form in that sentence. A form outside this list keeps its own name.
+This file is that inventory only. It is not a lesson, and it is not a limit on the forms a sentence may use. A form outside this list is not added here.
 
 "I'm leaving tomorrow" is Present Continuous. "The train leaves at nine" is Present Simple. The future use does not add a form. "Was going to" and "were going to" are the past of "going to", for a plan that did not happen. "Used to" is in the same handbook under modals, not under tenses.
 

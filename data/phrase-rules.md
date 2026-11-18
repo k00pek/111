@@ -1,6 +1,6 @@
 # Phrase rules
 
-How to build one short sentence from one chunk. This file is the procedure. It is not the sentence list. The bot does not read this file.
+How to build one short sentence from one chunk. This file is the procedure. It is not the sentence list.
 
 Take the chunk from `data/nuclear-list.md`. Read its row in `data/chunk-build.md`. Take an open word from `data/b1-words.md`. When the verb is irregular, take the past and the participle from `data/verb-forms.md`. The eight forms are named in `data/b1-tenses.md`.
 

@@ -4,7 +4,6 @@ Irregular verbs whose base form is on the B1 word list, including the first word
 A regular verb adds -ed for the past and the past participle. In the Present Simple, he, she, and it add -s.
 be, do, and have change in the present as well: am / is / are, do / does, have / has.
 Where British and American differ, the American form is the one in the table. The past participle of get is gotten. Burned, dreamed, learned, spelled, smelled, spilled, and spoiled are the American forms. The past of dive is dove or dived. "Lie" meaning not telling the truth is lied. "Lie down" is lay, lain. "Fit" in this table is the American past. Fitted is the past when the meaning is to put something in place.
-The bot does not read this file.
 
 | Base | Past | Past participle |
 | --- | --- | --- |
