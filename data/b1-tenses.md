@@ -16,12 +16,3 @@ This file is that inventory only. It is not a lesson, and it is not a limit on w
 | Past Perfect Simple | I had left before you called. | более раннее событие в рассказе |
 | will | I'll call you. | решение, обещание, прогноз |
 | going to | I'm going to call you. | план или очевидное будущее |
-
-Four forms from the school table of twelve sit outside this inventory. Coursebooks often teach the first of them before B2. Oxford puts that form at B1 and puts the choice between it and Present Perfect Simple at B2. The Cambridge B1 inventory does not list it.
-
-| Form | Example |
-| --- | --- |
-| Present Perfect Continuous | I've been waiting. |
-| Past Perfect Continuous | I'd been waiting. |
-| Future Continuous | I'll be waiting. |
-| Future Perfect | I'll have finished. |
