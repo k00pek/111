@@ -8,7 +8,7 @@ The new chunks come in an order fixed before this lesson. This file does not cho
 
 ## The place
 
-The places go in this order: home, shop, station, work, phone. Then home again. The next lesson takes the next place.
+The places go in this order: home, school, park, shop, restaurant, cinema, station, work, bank, library, market, museum, hospital, hotel, beach, airport, bus stop, post office, sports centre, phone. Then home again. The next lesson takes the next place.
 
 Every line in the lesson uses that place. The slot word is the word for that place in `data/start-scenes.md`.
 

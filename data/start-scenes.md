@@ -21,30 +21,43 @@ Four lines, in this order.
 
 Two people: the learner and a friend. he or she adds one third person. they is a group, or people who are not here. it is a thing that is already in the scene.
 
-One place: home, shop, station, work, phone.
+One place from the table. The slot takes the word for that place. It takes that word once.
 
-The slot takes the word for that place. It takes that word once.
+| Place | In the line | Thing | Verb | News | Run out |
+| --- | --- | --- | --- | --- | --- |
+| home | at home | key | go | The dog is here | milk |
+| school | at school | book | study | The class is over | paper |
+| park | in the park | ball | walk | The park is quiet | time |
+| shop | at the shop | bread | pay | The shop is closed | bread |
+| restaurant | at the restaurant | meal | eat | The food is ready | food |
+| cinema | at the cinema | film | watch | The film is over | time |
+| station | at the station | ticket | wait | The train is late | time |
+| work | at work | letter | work | The letter is ready | time |
+| bank | at the bank | money | save | The bank is closed | money |
+| library | in the library | book | read | The library is quiet | paper |
+| market | at the market | fruit | buy | The market is open | fruit |
+| museum | at the museum | map | see | The museum is open | time |
+| hospital | at the hospital | medicine | wait | The nurse is here | medicine |
+| hotel | at the hotel | room | stay | The room is ready | money |
+| beach | on the beach | towel | swim | The water is cold | water |
+| airport | at the airport | plane | fly | The plane is late | time |
+| bus stop | at the bus stop | bus | catch | The bus is late | time |
+| post office | at the post office | stamp | send | The post office is closed | paper |
+| sports centre | at the sports centre | game | play | The pool is open | water |
+| phone | on the phone | battery | call | The phone is off | battery |
 
-| Place | Thing | Verb | News |
-| --- | --- | --- | --- |
-| home | key | go | The dog is here |
-| shop | bread | pay | The shop is closed |
-| station | ticket | wait | The train is late |
-| work | letter | work | The letter is ready |
-| phone | battery | call | The phone is off |
-
-bread, milk, and time take no a. Every other thing takes a when it is new, and the when it is the one already in the scene.
+bread, milk, time, paper, food, water, money, medicine, fruit, and battery take no a. battery takes no the. Every other thing takes a when it is new, and the when it is the one already in the scene.
 
 - thing, of + thing, and a thing slot marked before: the thing for the place.
 - verb: the verb for the place, in the base form. At home the verb is go: She has to go. keep on takes -ing: She keeps on going. get to do replaces do, in the phrase and in the question: She got to go. Did she get to go?
 - thing or verb: the thing. feel like takes the place verb with -ing: feels like going. get used to takes it: She is getting used to it. good at takes sport: She is good at sport. afford to takes can and the place verb: She can afford to go. Can she afford to go?
-- place or verb: home is at home, shop is at the shop, station is at the station, work is at work, phone is on the phone. She ended up at home.
-- place: home stays home, work stays work, and shop, station, and phone take the. She got home. She got to work. head to already has to: she is heading to the shop, she is heading home, she is heading to work. The question drops to before home as well. Did she get home? Is she heading home? go around uses the shop. She went around the shop. Did she go around the shop?
-- to + place, and to + place or a thing: that place. home, here, and there take no to. She went back to the shop. I went back home. The phone is not a place you go back to. go back, come back, and get back use home, the shop, the station, or work.
+- place or verb: the place phrase from the table. She ended up at home. She ended up in the park.
+- place: home, work, and school take no the. She got home. She got to work. She got to school. Every other place takes the. She got to the shop. She got to the beach. head to already has to, and the question drops to before home. She is heading home. Is she heading home? She is heading to school. She is heading to the park. go around uses the shop. She went around the shop. Did she go around the shop?
+- to + place, and to + place or a thing: that place. home, here, and there take no to. She went back to the shop. I went back home. She went back to school. She went back to the beach. The phone is not a place you go back to. go back, come back, and get back use the lesson's place.
 - person, and with + person: you, the friend. he is him, she is her, they is them.
 - thing or person: the thing for the place, for look for and pick up. She is looking for the key. She will pick up the ticket. look after, come up to, hold up, catch up, rely on, take care of, next to, and look like take a person: him when the pronoun is he, her when it is she, them when it is they, and you otherwise. She is looking after him. She looks like her. think about, believe in, fond of, deal with, take for granted, in front of, and heard of take it. She is thinking about it. They believe in it. She is fond of it. She will deal with it. She takes it for granted. She is in front of it. She has heard of it.
-- none or thing: the thing for the place. take off at the station takes no thing, and the cue is «взлететь». At the other places the thing is coat, and the cue stays «снять это». turn up takes no thing. She turned up. Did she turn up?
-- clause: the news sentence for the place. When it is not the start of the line, its first word loses the capital. In a past time, is becomes was. What if the dog is here? I didn't know the dog was here. When the chunk has a particle, the clause stays after the whole chunk. She has found out the dog is here. She pointed out the dog was here. turn out keeps it: It turned out the dog was here. I'm afraid is the refusal I'm afraid not. The news stays in the other person's line. make sure does not use the station: you do not make sure that the train is late. She made sure the letter was ready.
+- none or thing: the thing for the place. take off at the station or the airport takes no thing, and the cue is «взлететь». At the other places the thing is coat, and the cue stays «снять это». turn up takes no thing. She turned up. Did she turn up?
+- clause: the news sentence for the place. When it is not the start of the line, its first word loses the capital. In a past time, is becomes was. What if the dog is here? I didn't know the dog was here. When the chunk has a particle, the clause stays after the whole chunk. She has found out the dog is here. She pointed out the dog was here. turn out keeps it: It turned out the dog was here. I'm afraid is the refusal I'm afraid not. The news stays in the other person's line. make sure does not use the station, the airport, or the bus stop: you do not make sure that the train, the plane, or the bus is late. She made sure the letter was ready.
 - none: nothing follows the chunk.
 - beside: the place verb, in the scene time, and the chunk at the end. The question uses that same verb. Is she going at the moment? Does she go all the time? Will she go in advance?
 
@@ -85,7 +98,7 @@ These chunks do not take the thing in the place table.
 | take advantage | home | it |
 | bear in mind | home | it |
 
-run out of keeps the chosen place and uses milk at home, bread at the shop, time at the station, time at work, and battery on the phone. battery takes no the. You have run out of battery.
+run out of keeps the chosen place and uses the Run out word. You have run out of milk. You have run out of battery.
 
 turn into takes a, because the result is new. She turned into a problem. come up with takes a: She came up with a plan. go for takes a: She is going for a walk. it, music, and sport take nothing: She got away with it. She took up music. She is good at sport. advice takes the: She acted on the advice. The other words in that table take the.
 
@@ -181,13 +194,7 @@ When a chunk cannot change its time, the next scene changes the chunk so the tim
 
 You and a friend, then the place, then why someone speaks, then the scene word for the time.
 
-| Place | In the line |
-| --- | --- |
-| home | at home |
-| shop | at the shop |
-| station | at the station |
-| work | at work |
-| phone | on the phone |
+The place phrase is the In the line column of the place table.
 
 | Prompt | Why |
 | --- | --- |
