@@ -6,7 +6,7 @@ Build the learner's phrase with `data/phrase-rules.md`. Choose the pronoun and t
 
 The next scene uses a different pronoun and a different time. One scene keeps one chunk, one pronoun, and one time.
 
-Bringing a chunk back, and building a long phrase from its end, are in other files. This file stops at the opening. The build-up is in `data/build-up.md`. The recall is in `data/recall.md`.
+Bringing a chunk back, and building a long phrase from its end, are in other files. This file stops at the opening. The build-up is in `data/build-up.md`. The recall is in `data/recall.md`. The lesson that places these lines is in `data/lesson.md`.
 
 ## Output
 
