@@ -37,14 +37,14 @@ bread, milk, and time take no a. Every other thing takes a when it is new, and t
 
 - thing, of + thing, and a thing slot marked before: the thing for the place.
 - verb: the verb for the place, in the base form. At home the verb is go: She has to go. keep on takes -ing: She keeps on going. get to do replaces do, in the phrase and in the question: She got to go. Did she get to go?
-- thing or verb: the thing. good at, get used to, and feel like take the place verb with -ing: good at going, get used to going, feels like going. afford to takes that verb in the base form: She affords to go.
+- thing or verb: the thing. get used to and feel like take the place verb with -ing: get used to going, feels like going. good at takes sport: She is good at sport. afford to takes can and the place verb: She can afford to go. Can she afford to go?
 - place or verb: home is at home, shop is at the shop, station is at the station, work is at work, phone is on the phone. She ended up at home.
 - place: home stays home, work stays work, and shop, station, and phone take the. She got home. She got to work. head to already has to: she is heading to the shop, she is heading home, she is heading to work. The question drops to before home as well. Did she get home? Is she heading home? go around uses the shop. She went around the shop. Did she go around the shop?
 - to + place, and to + place or a thing: that place. home, here, and there take no to. She went back to the shop. I went back home.
 - person, and with + person: you, the friend. he is him, she is her, they is them.
 - thing or person: him when the pronoun is he, her when it is she, them when it is they. Otherwise the thing for the place.
 - none or thing: the thing for the place. take off at the station takes no thing, and the cue is «взлететь». At the other places the thing is coat, and the cue stays «снять это».
-- clause: the news sentence for the place. When it is not the start of the line, its first word loses the capital. In a past time, is becomes was. I'm afraid the dog is here. What if the dog is here? I didn't know the dog was here.
+- clause: the news sentence for the place. When it is not the start of the line, its first word loses the capital. In a past time, is becomes was. I'm afraid the dog is here. What if the dog is here? I didn't know the dog was here. When the chunk has a particle, the clause stays after the whole chunk. She has found out the dog is here. She pointed out the dog was here. turn out keeps it: It turned out the dog was here.
 - none: nothing follows the chunk.
 - beside: the place verb, in the scene time, and the chunk at the end. The question uses that same verb. Is she going at the moment? Does she go all the time? Will she go in advance?
 
@@ -66,10 +66,36 @@ These chunks do not take the thing in the place table.
 | get on with | work | letter |
 | get into | home | book |
 | turn into | home | problem |
+| work out | home | problem |
+| sort out | home | problem |
+| bring up | home | problem |
+| give up | home | music |
+| take up | home | music |
+| good at | home | sport |
+| put together | work | letter |
+| work on | work | letter |
+| back up | home | story |
+| take over | home | job |
+| act on | home | advice |
+| in favor | home | plan |
+| come up with | home | plan |
+| go for | home | walk |
+| in mind | home | job |
+| care for | shop | bread |
+| in common | home | music |
+| get away with | home | it |
+| take advantage | home | it |
+| bear in mind | home | it |
 
 run out of keeps the chosen place and uses milk at home, bread at the shop, time at the station, time at work, and battery on the phone.
 
-turn into takes a, because the result is new. She turned into a problem. The other words in that table take the.
+turn into takes a, because the result is new. She turned into a problem. come up with takes a: She came up with a plan. go for takes a: She is going for a walk. it, music, and sport take nothing: She got away with it. She took up music. She is good at sport. advice takes the: She acted on the advice. The other words in that table take the.
+
+bear in mind puts it before the particle. She will bear it in mind. put together puts the noun between the verb and together, in the phrase and in the question. She put the letter together. Did she put the letter together? in mind takes the job. She has the job in mind.
+
+in advance uses the phone, so the verb is call. She will call in advance. Will she call in advance?
+
+in common keeps we. We have music in common. Do we have music in common?
 
 A person slot uses the word in the person bullet. I and we use you.
 
@@ -86,7 +112,7 @@ Choose one: I, you, we, they, he, she, it.
 
 Patterns subject, be, have, beside, and question with have take this pronoun.
 
-A chunk that already contains its pronoun keeps that pronoun. I don't know, I think, I don't think, I thought, and I'll tell you what keep I. What do you think?, Do you know?, What do you mean?, and What are you doing? keep you. They say keeps they. It takes, that's it, up to you, take place, no good, and to do with keep it. The you inside up to you stays you. It is up to you. There is / there are keeps there.
+A chunk that already contains its pronoun keeps that pronoun. I don't know, I think, I don't think, I thought, and I'll tell you what keep I. What do you think?, Do you know?, What do you mean?, and What are you doing? keep you. They say keeps they. It takes, that's it, up to you, take place, no good, to do with, make sense, and turn out keep it. The you inside up to you stays you. It is up to you. It makes sense. in common keeps we. There is / there are keeps there.
 
 When a chunk cannot change its pronoun, the next scene changes the chunk so the pronoun still changes.
 
@@ -188,7 +214,7 @@ one's matches the subject in the question too. Has she made up her mind?
 
 have got and have got to ask with have, not with do. Has she got the key? Has she got to go?
 
-A modal keeps its own word. The modal comes first, then the subject, then the rest of the chunk, then the slot word. Ought she to go? Can she tell the dog is here? Would she like the key? Would she say the dog is here? Had she better go? Might she as well go? Used she to go? Could she hardly go?
+A modal keeps its own word. The modal comes first, then the subject, then the rest of the chunk, then the slot word. Ought she to go? Can she tell the dog is here? Would she like the key? Would she say the dog is here? Had she better go? Might she as well go? used to asks with did and use. Did she use to go? could hardly drops hardly in the question. Could she go? The learner says She could hardly go.
 
 A chunk that already contains its subject uses that subject once. I don't know, I think, and I don't think drop I, and the question stays positive. Do you know the dog is here? The learner says I don't know the dog is here. I thought uses Did you think the dog was here? it takes uses Does it take time? they say uses Do they say the dog is here? up to you uses Is it up to you? take place uses Did it take place? no good uses Is it no good? to do with uses Does it have to do with the key?
 

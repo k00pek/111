@@ -45,14 +45,14 @@ This file does not contain the finished sentences.
 | --- | --- | --- | --- | --- | --- |
 | think about | subject | Present Continuous | thing or person | no | question |
 | think so | subject | Present Simple | none | none | question |
-| find out | subject | Present Perfect Simple | thing | yes | question |
+| find out | subject | Present Perfect Simple | clause | yes | question |
 | heard of | subject | Present Perfect Simple | thing or person | no | question |
 | can tell | subject | can | clause | none | question |
 | no idea | have | Present Simple | none | none | question |
 | bear in mind | subject | will | thing, before | yes | question |
 | make sense | subject | Present Simple | none | none | question |
 | work out | subject | Present Simple | thing | yes | question |
-| point out | subject | Past Simple | thing | yes | question |
+| point out | subject | Past Simple | clause | yes | question |
 | believe in | subject | Present Simple | thing or person | no | question |
 | they say | ready | Present Simple | clause | none | question |
 | no wonder | ready | no verb | none | none | news |
@@ -86,7 +86,7 @@ This file does not contain the finished sentences.
 | get out | subject | Past Simple | none | none | question |
 | come out | subject | Past Simple | none | none | question |
 | go out | subject | Present Simple | none | none | question |
-| turn out | subject | Past Simple | none | none | question |
+| turn out | subject | Past Simple | clause | none | question |
 | take off | subject | Past Simple | none or thing | yes | question |
 | turn on | subject | Past Simple | thing | yes | question |
 | switch on | subject | Past Simple | thing | yes | question |

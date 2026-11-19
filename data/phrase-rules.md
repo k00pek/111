@@ -59,5 +59,5 @@ Apply the split mark on the row.
 ## Glue
 
 - A new countable singular noun takes a or an. the is for the one both speakers already know. A plural or an uncountable noun takes no a.
-- do, does, or did makes a question or a negative in the Present Simple and the Past Simple. be and these modals make the question and the negative without do: can, could, will, would, ought to, had better, might as well, used to.
+- do, does, or did makes a question or a negative in the Present Simple and the Past Simple. be and these modals make the question and the negative without do: can, could, will, would, ought to, had better, might as well. used to asks with did and use: Did she use to go? afford to takes can in the spoken sentence: She can afford to go.
 - one's matches the subject: my, your, his, her, our, their. I've made up my mind. She did it on her own.
