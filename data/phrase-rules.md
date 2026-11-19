@@ -4,7 +4,7 @@ How to build one short sentence from one chunk. This file is the procedure. It i
 
 Take the chunk from `data/nuclear-list.md`. Read its row in `data/chunk-build.md`. Take an open word from `data/b1-words.md`. When the verb is irregular, take the past and the participle from `data/verb-forms.md`. The eight forms are named in `data/b1-tenses.md`.
 
-One chunk makes one sentence. Use one subject and the one form on the row.
+One chunk makes one sentence. Use one subject and the one form on the row. A start scene chooses the pronoun and the time first. Those choices are in `data/start-scenes.md`.
 
 ## Subject
 
@@ -35,7 +35,7 @@ A regular verb adds -ed for the past and the past participle. In the Present Sim
 
 These labels stand in the form column on their own: used to, had better, might as well, would like, would, can, could, ought to, imperative, no verb. ", not" means the sentence is negative. I don't care for tea.
 
-Past Continuous and Past Perfect Simple are among the eight. No chunk takes either one as its form.
+Past Continuous and Past Perfect Simple are among the eight. No row names either one as its usual form.
 
 ## Slot
 
