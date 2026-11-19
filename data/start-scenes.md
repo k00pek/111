@@ -25,23 +25,46 @@ One place: home, shop, station, work, phone.
 
 The slot takes the word for that place. It takes that word once.
 
-| Place | Thing | Verb | Fact |
+| Place | Thing | Verb | News |
 | --- | --- | --- | --- |
-| home | key | go | where the dog is |
-| shop | bread | pay | the shop is closed |
-| station | ticket | wait | the train is late |
-| work | letter | work | the letter is ready |
-| phone | battery | call | the phone is off |
+| home | key | go | The dog is here |
+| shop | bread | pay | The shop is closed |
+| station | ticket | wait | The train is late |
+| work | letter | work | The letter is ready |
+| phone | battery | call | The phone is off |
+
+bread, milk, and time take no a. Every other thing takes a when it is new, and the when it is the one already in the scene.
 
 - thing, of + thing, and a thing slot marked before: the thing for the place.
 - verb: the verb for the place, in the base form. At home the verb is go: I have to go.
-- thing or verb, and place or verb: the thing.
+- thing or verb: the thing. good at and get used to take the place verb with -ing: good at working, get used to working.
+- place or verb: home is at home, shop is at the shop, station is at the station, work is at work, phone is on the phone. She ended up at home.
+- place: home stays home, work stays work, and shop, station, and phone take the. She got home. She got to work. She went around the shop. head to already has to: she is heading to the shop, she is heading home, she is heading to work.
 - to + place, and to + place or a thing: that place. home, here, and there take no to. She went back to the shop. I went back home.
 - person, and with + person: the friend. When the pronoun is he or she, that person.
 - thing or person: the third person when the pronoun is he or she. Otherwise the thing for the place.
-- none or thing: the thing for the place. take off at the station takes no thing, and the cue is «взлететь». At the other places the cue stays «снять это».
-- clause: the fact for the place. When the scene time is Past Simple, Past Continuous, or Past Perfect Simple, the fact uses was. Otherwise it uses is. I don't know where the dog is. I didn't know where the dog was.
+- none or thing: the thing for the place. take off at the station takes no thing, and the cue is «взлететь». At the other places the thing is coat, and the cue stays «снять это».
+- clause: the news sentence for the place. In a past time, is becomes was. I'm afraid the dog is here. I didn't know the dog was here.
 - none: nothing follows the chunk.
+- beside: the place verb, in the scene time, and the chunk at the end. I'm working at the moment. I'll call in advance.
+
+These chunks do not take the thing in the place table.
+
+| Chunk | Place | Word |
+| --- | --- | --- |
+| get on | station | train |
+| get off | station | train |
+| turn on | phone | phone |
+| switch on | phone | phone |
+| turn down | phone | phone |
+| turn up | phone | phone |
+| fill in | work | form |
+| put up | home | picture |
+| go through | work | letter |
+| go into | work | letter |
+| it takes | home | time |
+
+run out of keeps the chosen place and uses milk at home, bread at the shop, time at the station, time at work, and battery on the phone.
 
 A person slot takes the person the pronoun names. I and we use the friend when a person is required and the pronoun is not he or she.
 
@@ -79,9 +102,12 @@ The other person's line and the learner's phrase use this same time. The cue nam
 - will: про решение
 - going to: про план
 
-Use another time than the row's form when the chunk has an ordinary verb and the sentence stays ordinary spoken English.
+The scene uses the form on the row. It uses another form only from the list for that pattern.
 
-A chunk whose pattern is be uses Present Simple, Past Simple, or will. She is fond of the dog. She was fond of the dog. She will be fond of the dog.
+- subject or have, when the form column is one of the eight: any of the eight.
+- be: Present Simple, Past Simple, or will. She is fond of the key. She was fond of the key. She will be fond of the key.
+- there is / there are, and no sign of: Present Simple, Past Simple, Present Perfect Simple, Past Perfect Simple, will, or going to.
+- beside: the time that chunk sets. at the moment and right now are Present Continuous. in advance is will. all the time is Present Simple.
 
 These keep the form on the row:
 
@@ -92,8 +118,11 @@ These keep the form on the row:
 These chunks set the time. The scene uses that time.
 
 - at the moment and right now take Present Continuous
+- all the time takes Present Simple
+- in advance takes will
 - so far takes Present Perfect Simple
 - in the end and for good take Past Simple
+- by now takes Present Simple
 
 When a chunk cannot change its time, the next scene changes the chunk so the time still changes.
 
@@ -104,10 +133,12 @@ The prompt is the last column of the chunk's row in `data/chunk-build.md`.
 - question. The other person asks with the base form of the chunk and the slot word. The learner answers with the finished phrase. Do you have to go? She had to go. The friend's pronoun follows the rule above: Do you have to go? for the learner's I. Am I looking for the key? for the learner's You are looking for the key.
 - invitation. The line does not contain the chunk. of course and all right use Are you coming? thank you uses Here you are.
 - request. The line does not contain the chunk. Can you help? In the past, Could you help? With will, Will you help? With going to, Are you going to help?
-- news. The line does not contain the chunk. It is the fact for the place, in the scene's time. The shop is closed. The shop was closed. The shop will be closed.
+- news. The line does not contain the chunk. It is the news sentence for the place. is in that sentence changes with the time: is, was, has been, had been, will be, or is going to be. Present Continuous uses is. Past Continuous uses was. The dog is here. The shop was closed. The train will be late.
 - none. No line from the other person. The learner speaks first.
 
-Question shapes. The verb is the chunk in the base form, then the slot word.
+Question shapes. The first word of the chunk takes the ending. The rest of the chunk stays, then the slot word. looking for the key. found out the time.
+
+there is / there are asks with there and be. Is there a key? Was there a key? Has there been a key? Had there been a key? Will there be a key? Is there going to be a key? no sign of asks Is there a sign of the key? The same be forms apply, and the thing follows of.
 
 - Present Simple: Do or Does + subject + base form
 - Past Simple: Did + subject + base form
@@ -118,7 +149,7 @@ Question shapes. The verb is the chunk in the base form, then the slot word.
 - Past Continuous: was or were + subject + the verb with -ing
 - Past Perfect Simple: had + subject + the participle
 
-For pattern be, the question is the form of be, then the subject, then the chunk. Is she fond of the dog?
+For pattern be, the question is the form of be, then the subject, then the chunk. Is she fond of the key?
 
 For pattern have, the question is Do or Does, then the subject, then have, then the chunk. Do you have any idea?
 
