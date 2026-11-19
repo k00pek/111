@@ -29,7 +29,9 @@ Say the scene line. Say the other person's line when it is there. Say the Russia
 
 ## When
 
-Count from the moment the chunk is first introduced. Each recall comes at about five times the time of the one before.
+Count from the moment the chunk is first introduced. Each recall comes at a longer gap than the one before.
+
+The lesson is the only sitting that day. The hour and the five hours fall outside that half hour, so they have no sitting. After the ten minutes, the next recall is the next lesson.
 
 | Recall | Time after the introduction | Where |
 | --- | --- | --- |
@@ -37,12 +39,10 @@ Count from the moment the chunk is first introduced. Each recall comes at about 
 | 2 | 25 seconds | the same lesson |
 | 3 | 2 minutes | the same lesson |
 | 4 | 10 minutes | the same lesson |
-| 5 | 1 hour | later the same day, after the lesson |
-| 6 | 5 hours | later the same day, after the lesson |
-| 7 | 1 day | the next lesson |
-| 8 | 5 days | five lessons later |
-| 9 | 25 days | twenty-five lessons later |
-| 10 | 4 months | about four months later |
+| 5 | 1 day | the next lesson |
+| 6 | 5 days | five lessons later |
+| 7 | 25 days | twenty-five lessons later |
+| 8 | 4 months | about four months later |
 
 A lesson brings back every chunk that is due.
 
@@ -51,13 +51,11 @@ A lesson brings back every chunk that is due.
 - A chunk introduced five lessons ago comes back once.
 - A chunk introduced twenty-five lessons ago comes back once.
 
-The hour and the five hours come later the same day, after the lesson. They are a fresh line. They are not part of the thirty minutes.
-
 When a recall falls after the last lesson, it stays due. It comes in a later lesson.
 
-The tenth recall holds the chunk for more than a year.
+The last recall holds the chunk for more than a year.
 
-A chunk whose line is only the chunk may stop before the tenth recall. A chunk that builds a longer line uses the whole schedule.
+A chunk whose line is only the chunk may stop before the last recall. A chunk that builds a longer line uses the whole schedule.
 
 ## A miss
 
