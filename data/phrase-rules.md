@@ -4,7 +4,7 @@ How to build one short sentence from one chunk. This file is the procedure. It i
 
 Take the chunk from `data/nuclear-list.md`. Read its row in `data/chunk-build.md`. Take an open word from `data/b1-words.md`. When the verb is irregular, take the past and the participle from `data/verb-forms.md`. The eight forms are named in `data/b1-tenses.md`.
 
-One chunk makes one sentence. Use one subject and the one form on the row. A start scene chooses the pronoun and the time first. Those choices are in `data/start-scenes.md`.
+One chunk makes one sentence. Use one subject and the one form on the row. A start scene chooses the pronoun and the time first. A recall chooses them again for the same chunk. Those choices are in `data/start-scenes.md`. The recall is in `data/recall.md`.
 
 ## Subject
 
@@ -39,7 +39,7 @@ Past Continuous and Past Perfect Simple are among the eight. No row names either
 
 ## Slot
 
-Fill the slot named on the row. In a start scene, the word is the one named for that place in `data/start-scenes.md`.
+Fill the slot named on the row. In a start scene, and in a recall, the word is the one named for that place in `data/start-scenes.md`.
 
 - none. Nothing follows the chunk.
 - verb. A verb from the B1 word list. After to, and after a modal label, it stays in the base form. keep on, and the verb choice of feel like or get used to, take -ing. In get to do, replace do with that verb.
