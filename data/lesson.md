@@ -4,7 +4,7 @@ How to build one lesson. This file is the procedure. It is not a list of lessons
 
 One lesson is one sitting of about thirty minutes. The lessons go one a day, in order. One lesson is one conversation, in one place.
 
-The new chunks come in an order fixed before this lesson. This file does not choose that order.
+The course fixes the new chunks and their order. That order is in `data/course.md`.
 
 ## The place
 
@@ -47,6 +47,8 @@ Leave another line between two lines of the same chunk. After a chunk is introdu
 The other lines are the chunks due from earlier lessons, one line each. The chunk introduced longest ago comes first. When no earlier chunk is waiting, the other line is the next new chunk.
 
 A chunk that waits until the talk is going is introduced only after the first new chunk.
+
+A lesson with no new chunk has no preview and no close. The stream is the chunks that are due, one line each. The chunk introduced longest ago comes first. The sitting ends when those lines are said.
 
 When the learner does not say the line, run the build-up, then ask this same line once more. That repeat is not the next recall. The next recall stays on the schedule in `data/recall.md`.
 

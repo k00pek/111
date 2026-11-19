@@ -51,7 +51,7 @@ A lesson brings back every chunk that is due. The lesson places these lines. Tha
 - A chunk introduced five lessons ago comes back once.
 - A chunk introduced twenty-five lessons ago comes back once.
 
-When a recall falls after the last lesson, it stays due. It comes in a later lesson.
+When a recall falls after the last lesson that introduces a chunk, it stays due. It comes in a later lesson. The four-month recall is about 120 days after the introduction. The course places that day. That order is in `data/course.md`.
 
 The last recall holds the chunk for more than a year.
 
