@@ -52,66 +52,66 @@ Phrase: She was **about to** go.
 
 ## 7. supposed to
 
-Scene: You and a friend at the shop. He asks about it, as a decision.
-Other: Will it be **supposed to** pay?
-Cue: Он спрашивает про это, про решение. Скажи, что так полагается.
-Phrase: It will be **supposed to** pay.
+Scene: You and a friend at the shop. He asks about you, now.
+Other: Are you **supposed to** pay?
+Cue: Он спрашивает про тебя, про сейчас. Скажи, что так полагается.
+Phrase: I am **supposed to** pay.
 
 ## 8. meant to
 
-Scene: You and a friend at the station. He asks about you, now.
-Other: Do you **mean to** wait?
-Cue: Он спрашивает про тебя, про сейчас. Скажи, что собирался сделать.
-Phrase: I **mean to** wait.
+Scene: You and a friend at the station. He asks about himself, yesterday.
+Other: Did I **mean to** wait?
+Cue: Он спрашивает про друга, про вчера. Скажи, что собирался сделать.
+Phrase: You **meant to** wait.
 
 ## 9. used to
 
-Scene: You and a friend at work. He asks about himself, before.
-Other: Did I use to work?
-Cue: Он спрашивает про друга, про раньше. Скажи, что раньше так бывало.
-Phrase: You **used to** work.
+Scene: You and a friend at work. He asks about the two of you, before.
+Other: Did we use to work?
+Cue: Он спрашивает про вас двоих, про раньше. Скажи, что раньше так бывало.
+Phrase: We **used to** work.
 
 ## 10. get used to
 
-Scene: You and a friend on the phone. He asks about the two of you, now.
-Other: Are we **getting used to** calling?
-Cue: Он спрашивает про вас двоих, про то, что идёт сейчас. Скажи, что привыкнуть к этому.
-Phrase: We are **getting used to** calling.
+Scene: You and a friend on the phone. He asks about them, now.
+Other: Are they **getting used to** it?
+Cue: Он спрашивает про них, про то, что идёт сейчас. Скажи, что привыкнуть к этому.
+Phrase: They are **getting used to** it.
 
 ## 11. had better
 
-Scene: You and a friend at home. He asks about them, now.
-Other: **Had** they **better** go?
-Cue: Он спрашивает про них, про сейчас. Скажи, что лучше сделать.
-Phrase: They **had better** go.
+Scene: You and a friend at home. He asks about him, now.
+Other: **Had** he **better** go?
+Cue: Он спрашивает про него, про сейчас. Скажи, что лучше сделать.
+Phrase: He **had better** go.
 
 ## 12. might as well
 
-Scene: You and a friend at the shop. He asks about him, now.
-Other: **Might** he **as well** pay?
-Cue: Он спрашивает про него, про сейчас. Скажи, что так уж и быть.
-Phrase: He **might as well** pay.
+Scene: You and a friend at the shop. He asks about her, now.
+Other: **Might** she **as well** pay?
+Cue: Он спрашивает про неё, про сейчас. Скажи, что так уж и быть.
+Phrase: She **might as well** pay.
 
 ## 13. be likely to
 
-Scene: You and a friend at the station. He asks about her, yesterday.
-Other: **Was** she **likely to** wait?
-Cue: Он спрашивает про неё, про вчера. Скажи, что скорее всего так.
-Phrase: She **was likely to** wait.
+Scene: You and a friend at the station. He asks about you, yesterday.
+Other: **Were** you **likely to** wait?
+Cue: Он спрашивает про тебя, про вчера. Скажи, что скорее всего так.
+Phrase: I **was likely to** wait.
 
 ## 14. bound to
 
-Scene: You and a friend at work. He asks about it, as a decision.
-Other: Will it be **bound to** work?
-Cue: Он спрашивает про это, про решение. Скажи, что непременно случится.
-Phrase: It will be **bound to** work.
+Scene: You and a friend at work. He asks about it, now.
+Other: Is it **bound to** work?
+Cue: Он спрашивает про это, про сейчас. Скажи, что непременно случится.
+Phrase: It is **bound to** work.
 
 ## 15. tend to
 
-Scene: You and a friend on the phone. He asks about you, now.
-Other: Do you **tend to** call?
-Cue: Он спрашивает про тебя, про сейчас. Скажи, что обычно так делает.
-Phrase: I **tend to** call.
+Scene: You and a friend on the phone. He asks about the two of you, already.
+Other: Have we **tended to** call?
+Cue: Он спрашивает про вас двоих, про то, что уже есть. Скажи, что обычно так делает.
+Phrase: We have **tended to** call.
 
 ## 16. it takes
 
@@ -122,143 +122,143 @@ Phrase: **It takes** time.
 
 ## 17. there is / there are
 
-Scene: You and a friend at home. He asks what is there, already.
-Other: Has there been a key?
-Cue: Он спрашивает про это, про то, что уже есть. Скажи, что это есть.
-Phrase: **There has been** a key.
+Scene: You and a friend at home. He asks what is there, yesterday.
+Other: Was there a key?
+Cue: Он спрашивает про это, про вчера. Скажи, что это есть.
+Phrase: **There was** a key.
 
 ## 18. would like
 
-Scene: You and a friend at the shop. He asks about himself, now.
-Other: **Would** I **like** bread?
-Cue: Он спрашивает про друга, про сейчас. Скажи, что хотел бы.
-Phrase: You **would like** bread.
+Scene: You and a friend at the shop. He asks about them, now.
+Other: **Would** they **like** bread?
+Cue: Он спрашивает про них, про сейчас. Скажи, что хотел бы.
+Phrase: They **would like** bread.
 
 ## 19. feel like
 
-Scene: You and a friend at the station. He asks about the two of you, yesterday.
-Other: Did we feel like waiting?
-Cue: Он спрашивает про вас двоих, про вчера. Скажи, что хочется.
-Phrase: We **felt like** waiting.
+Scene: You and a friend at the station. He asks about him, earlier.
+Other: Had he **felt like** waiting?
+Cue: Он спрашивает про него, про ещё более раннее. Скажи, что хочется.
+Phrase: He had **felt like** waiting.
 
 ## 20. make up one's mind
 
-Scene: You and a friend at work. He asks about them, at that moment.
-Other: Were they **making up their mind**?
-Cue: Он спрашивает про них, про тот момент. Скажи, что решился.
-Phrase: They were **making up their mind**.
+Scene: You and a friend at work. He asks about her, as a decision.
+Other: Will she **make up her mind**?
+Cue: Он спрашивает про неё, про решение. Скажи, что решился.
+Phrase: She will **make up her mind**.
 
 ## 21. care for
 
-Scene: You and a friend at the shop. He asks about him, earlier.
-Other: Had he **cared for** bread?
-Cue: Он спрашивает про него, про ещё более раннее. Скажи, что это не нравится.
-Phrase: He hadn't **cared for** bread.
+Scene: You and a friend at the shop. He asks about you, now.
+Other: Do you **care for** bread?
+Cue: Он спрашивает про тебя, про сейчас. Скажи, что это не нравится.
+Phrase: I don't **care for** bread.
 
 ## 22. fond of
 
-Scene: You and a friend on the phone. He asks about them, as a decision.
-Other: Will they be **fond of** them?
-Cue: Он спрашивает про них, про решение. Скажи, что это нравится.
-Phrase: They will be **fond of** them.
+Scene: You and a friend on the phone. He asks about himself, yesterday.
+Other: Was I **fond of** it?
+Cue: Он спрашивает про друга, про вчера. Скажи, что это нравится.
+Phrase: You were **fond of** it.
 
 ## 23. in favor
 
-Scene: You and a friend at home. He asks about you, now.
-Other: Are you **in favor** of the plan?
-Cue: Он спрашивает про тебя, про сейчас. Скажи, что он за это.
-Phrase: I am **in favor** of the plan.
+Scene: You and a friend at home. He asks about the two of you, as a decision.
+Other: Will we be **in favor** of the plan?
+Cue: Он спрашивает про вас двоих, про решение. Скажи, что он за это.
+Phrase: We will be **in favor** of the plan.
 
 ## 24. better off
 
-Scene: You and a friend at home. He asks about himself, yesterday.
-Other: Was I **better off**?
-Cue: Он спрашивает про друга, про вчера. Скажи, что так будет лучше.
-Phrase: You were **better off**.
+Scene: You and a friend at home. He asks about them, now.
+Other: Are they **better off**?
+Cue: Он спрашивает про них, про сейчас. Скажи, что так будет лучше.
+Phrase: They are **better off**.
 
 ## 25. up to you
 
-Scene: You and a friend at the shop. He asks about it, as a decision.
-Other: Will it be **up to you**?
-Cue: Он спрашивает про это, про решение. Скажи, что решать другу.
-Phrase: It will be **up to you**.
+Scene: You and a friend at the shop. He asks about it, yesterday.
+Other: Was it **up to you**?
+Cue: Он спрашивает про это, про вчера. Скажи, что решать другу.
+Phrase: It was **up to you**.
 
 ## 26. think about
 
-Scene: You and a friend at the station. He asks about them, as a plan.
-Other: Are they going to **think about** them?
-Cue: Он спрашивает про них, про план. Скажи, что обдумать это.
-Phrase: They are going to **think about** them.
+Scene: You and a friend at the station. He asks about him, at that moment.
+Other: Was he **thinking about** it?
+Cue: Он спрашивает про него, про тот момент. Скажи, что обдумать это.
+Phrase: He was **thinking about** it.
 
 ## 27. think so
 
-Scene: You and a friend at work. He asks about you, now.
-Other: Do you **think so**?
-Cue: Он спрашивает про тебя, про сейчас. Скажи, что тоже так считает.
-Phrase: I **think so**.
+Scene: You and a friend at work. He asks about her, earlier.
+Other: Had she **thought so**?
+Cue: Он спрашивает про неё, про ещё более раннее. Скажи, что тоже так считает.
+Phrase: She had **thought so**.
 
 ## 28. find out
 
-Scene: You and a friend on the phone. He asks about himself, now.
-Other: Am I **finding out** the phone is off?
-Cue: Он спрашивает про друга, про то, что идёт сейчас. Скажи, что узнать это.
-Phrase: You are **finding out** the phone is off.
+Scene: You and a friend on the phone. He asks about you, as a decision.
+Other: Will you **find out** the phone is off?
+Cue: Он спрашивает про тебя, про решение. Скажи, что узнать это.
+Phrase: I will **find out** the phone is off.
 
 ## 29. heard of
 
-Scene: You and a friend at home. He asks about them, already.
-Other: Have they **heard of** them?
-Cue: Он спрашивает про них, про то, что уже есть. Скажи, что слышал об этом.
-Phrase: They have **heard of** them.
+Scene: You and a friend at home. He asks about himself, as a plan.
+Other: Am I going to **hear of** it?
+Cue: Он спрашивает про друга, про план. Скажи, что слышал об этом.
+Phrase: You are going to **hear of** it.
 
 ## 30. can tell
 
-Scene: You and a friend at the shop. He asks about you, now.
-Other: **Can** you **tell** the shop is closed?
-Cue: Он спрашивает про тебя, про сейчас. Скажи, что можно понять по виду.
-Phrase: I **can tell** the shop is closed.
+Scene: You and a friend at the shop. He asks about the two of you, now.
+Other: **Can** we **tell** the shop is closed?
+Cue: Он спрашивает про вас двоих, про сейчас. Скажи, что можно понять по виду.
+Phrase: We **can tell** the shop is closed.
 
 ## 31. no idea
 
-Scene: You and a friend at the station. He asks about himself, yesterday.
-Other: Did I have any idea?
-Cue: Он спрашивает про друга, про вчера. Скажи, что понятия нет.
-Phrase: You had **no idea**.
+Scene: You and a friend at the station. He asks about them, now.
+Other: Do they have any idea?
+Cue: Он спрашивает про них, про сейчас. Скажи, что понятия нет.
+Phrase: They have **no idea**.
 
 ## 32. bear in mind
 
-Scene: You and a friend at home. He asks about the two of you, at that moment.
-Other: Were we **bearing** it **in mind**?
-Cue: Он спрашивает про вас двоих, про тот момент. Скажи, что иметь это в виду.
-Phrase: We were **bearing** it **in mind**.
+Scene: You and a friend at home. He asks about him, now.
+Other: Is he **bearing** it **in mind**?
+Cue: Он спрашивает про него, про то, что идёт сейчас. Скажи, что иметь это в виду.
+Phrase: He is **bearing** it **in mind**.
 
 ## 33. make sense
 
-Scene: You and a friend at work. He asks about it, earlier.
-Other: Had it **made sense**?
-Cue: Он спрашивает про это, про ещё более раннее. Скажи, что в этом есть смысл.
-Phrase: It had **made sense**.
+Scene: You and a friend at work. He asks about it, already.
+Other: Has it **made sense**?
+Cue: Он спрашивает про это, про то, что уже есть. Скажи, что в этом есть смысл.
+Phrase: It has **made sense**.
 
 ## 34. work out
 
-Scene: You and a friend at home. He asks about them, as a decision.
-Other: Will they **work out** the problem?
-Cue: Он спрашивает про них, про решение. Скажи, что разобраться.
-Phrase: They will **work out** the problem.
+Scene: You and a friend at home. He asks about her, yesterday.
+Other: Did she **work out** the problem?
+Cue: Он спрашивает про неё, про вчера. Скажи, что разобраться.
+Phrase: She **worked out** the problem.
 
 ## 35. point out
 
-Scene: You and a friend on the phone. He asks about him, as a plan.
-Other: Is he going to **point out** the phone is off?
-Cue: Он спрашивает про него, про план. Скажи, что указать на факт.
-Phrase: He is going to **point out** the phone is off.
+Scene: You and a friend on the phone. He asks about you, at that moment.
+Other: Were you **pointing out** the phone was off?
+Cue: Он спрашивает про тебя, про тот момент. Скажи, что указать на факт.
+Phrase: I was **pointing out** the phone was off.
 
 ## 36. believe in
 
-Scene: You and a friend at home. He asks about them, now.
-Other: Do they **believe in** them?
-Cue: Он спрашивает про них, про сейчас. Скажи, что верить в это.
-Phrase: They **believe in** them.
+Scene: You and a friend at home. He asks about himself, earlier.
+Other: Had I **believed in** it?
+Cue: Он спрашивает про друга, про ещё более раннее. Скажи, что верить в это.
+Phrase: You had **believed in** it.
 
 ## 37. they say
 
@@ -282,10 +282,10 @@ Phrase: **What if** the letter is ready?
 
 ## 40. would say
 
-Scene: You and a friend on the phone. He asks about you, now.
-Other: **Would** you **say** the phone is off?
-Cue: Он спрашивает про тебя, про сейчас. Скажи, что сказал бы так.
-Phrase: I **would say** the phone is off.
+Scene: You and a friend on the phone. He asks about the two of you, now.
+Other: **Would** we **say** the phone is off?
+Cue: Он спрашивает про вас двоих, про сейчас. Скажи, что сказал бы так.
+Phrase: We **would say** the phone is off.
 
 ## 41. go on
 
@@ -301,10 +301,10 @@ Phrase: **Carry on**.
 
 ## 43. keep on
 
-Scene: You and a friend at the station. He asks about himself, now.
-Other: Am I **keeping on** waiting?
-Cue: Он спрашивает про друга, про то, что идёт сейчас. Скажи, что продолжать и дальше.
-Phrase: You are **keeping on** waiting.
+Scene: You and a friend at the station. He asks about them, as a decision.
+Other: Will they **keep on** waiting?
+Cue: Он спрашивает про них, про решение. Скажи, что продолжать и дальше.
+Phrase: They will **keep on** waiting.
 
 ## 44. keep up
 
@@ -314,17 +314,17 @@ Phrase: **Keep up**.
 
 ## 45. give up
 
-Scene: You and a friend at home. He asks about the two of you, already.
-Other: Have we **given up** music?
-Cue: Он спрашивает про вас двоих, про то, что уже есть. Скажи, что бросить это.
-Phrase: We have **given up** music.
+Scene: You and a friend at home. He asks about him, as a plan.
+Other: Is he going to **give up** music?
+Cue: Он спрашивает про него, про план. Скажи, что бросить это.
+Phrase: He is going to **give up** music.
 
 ## 46. end up
 
-Scene: You and a friend on the phone. He asks about them, yesterday.
-Other: Did they end up on the phone?
-Cue: Он спрашивает про них, про вчера. Скажи, что в итоге оказаться.
-Phrase: They **ended up** on the phone.
+Scene: You and a friend on the phone. He asks about her, now.
+Other: Does she **end up** on the phone?
+Cue: Он спрашивает про неё, про сейчас. Скажи, что в итоге оказаться.
+Phrase: She **ends up** on the phone.
 
 ## 47. go ahead
 
@@ -346,238 +346,238 @@ Phrase: **Hang on**.
 
 ## 50. move on
 
-Scene: You and a friend at work. He asks about him, at that moment.
-Other: Was he **moving on**?
-Cue: Он спрашивает про него, про тот момент. Скажи, что двигаться дальше.
-Phrase: He was **moving on**.
+Scene: You and a friend at work. He asks about you, now.
+Other: Are you **moving on**?
+Cue: Он спрашивает про тебя, про то, что идёт сейчас. Скажи, что двигаться дальше.
+Phrase: I am **moving on**.
 
 ## 51. go back
 
-Scene: You and a friend on the phone. He asks about her, earlier.
-Other: Had she **gone back** to the phone?
-Cue: Он спрашивает про неё, про ещё более раннее. Скажи, что вернуться туда.
-Phrase: She had **gone back** to the phone.
+Scene: You and a friend at home. He asks about himself, already.
+Other: Have I **gone back** home?
+Cue: Он спрашивает про друга, про то, что уже есть. Скажи, что вернуться туда.
+Phrase: You have **gone back** home.
 
 ## 52. come back
 
-Scene: You and a friend at home. He asks about it, as a decision.
-Other: Will it **come back** home?
-Cue: Он спрашивает про это, про решение. Скажи, что вернуться сюда.
-Phrase: It will **come back** home.
+Scene: You and a friend at the shop. He asks about the two of you, yesterday.
+Other: Did we **come back** to the shop?
+Cue: Он спрашивает про вас двоих, про вчера. Скажи, что вернуться сюда.
+Phrase: We **came back** to the shop.
 
 ## 53. get back
 
-Scene: You and a friend at the shop. He asks about you, as a plan.
-Other: Are you going to **get back** to the shop?
-Cue: Он спрашивает про тебя, про план. Скажи, что вернуться.
-Phrase: I am going to **get back** to the shop.
+Scene: You and a friend at the station. He asks about them, at that moment.
+Other: Were they **getting back** to the station?
+Cue: Он спрашивает про них, про тот момент. Скажи, что вернуться.
+Phrase: They were **getting back** to the station.
 
 ## 54. take up
 
-Scene: You and a friend at home. He asks about himself, now.
-Other: Do I **take up** music?
-Cue: Он спрашивает про друга, про сейчас. Скажи, что начать этим заниматься.
-Phrase: You **take up** music.
+Scene: You and a friend at home. He asks about him, earlier.
+Other: Had he **taken up** music?
+Cue: Он спрашивает про него, про ещё более раннее. Скажи, что начать этим заниматься.
+Phrase: He had **taken up** music.
 
 ## 55. get rid of
 
-Scene: You and a friend at the station. He asks about the two of you, now.
-Other: Are we **getting rid of** the ticket?
-Cue: Он спрашивает про вас двоих, про то, что идёт сейчас. Скажи, что избавиться от этого.
-Phrase: We are **getting rid of** the ticket.
+Scene: You and a friend at work. He asks about her, as a decision.
+Other: Will she **get rid of** the letter?
+Cue: Он спрашивает про неё, про решение. Скажи, что избавиться от этого.
+Phrase: She will **get rid of** the letter.
 
 ## 56. break up
 
-Scene: You and a friend at work. He asks about them, already.
-Other: Have they **broken up**?
-Cue: Он спрашивает про них, про то, что уже есть. Скажи, что расстаться.
-Phrase: They have **broken up**.
+Scene: You and a friend on the phone. He asks about you, as a plan.
+Other: Are you going to **break up**?
+Cue: Он спрашивает про тебя, про план. Скажи, что расстаться.
+Phrase: I am going to **break up**.
 
 ## 57. shut up
 
-Scene: You and a friend on the phone. The learner speaks first, now.
+Scene: You and a friend at home. The learner speaks first, now.
 Cue: Скажи, что замолчи.
 Phrase: **Shut up**.
 
 ## 58. go away
 
-Scene: You and a friend at home. The learner speaks first, now.
+Scene: You and a friend at the shop. The learner speaks first, now.
 Cue: Скажи, что уйти.
 Phrase: **Go away**.
 
 ## 59. get away
 
-Scene: You and a friend at the shop. He asks about him, yesterday.
-Other: Did he get away?
-Cue: Он спрашивает про него, про вчера. Скажи, что улизнуть.
-Phrase: He **got away**.
+Scene: You and a friend at the station. He asks about himself, now.
+Other: Do I **get away**?
+Cue: Он спрашивает про друга, про сейчас. Скажи, что улизнуть.
+Phrase: You **get away**.
 
 ## 60. get away with
 
-Scene: You and a friend at home. He asks about her, at that moment.
-Other: Was she **getting away with** it?
-Cue: Он спрашивает про неё, про тот момент. Скажи, что выйти сухим из воды.
-Phrase: She was **getting away with** it.
+Scene: You and a friend at home. He asks about the two of you, now.
+Other: Are we **getting away with** it?
+Cue: Он спрашивает про вас двоих, про то, что идёт сейчас. Скажи, что выйти сухим из воды.
+Phrase: We are **getting away with** it.
 
 ## 61. get out
 
-Scene: You and a friend at the station. He asks about it, earlier.
-Other: Had it **gotten out**?
-Cue: Он спрашивает про это, про ещё более раннее. Скажи, что выбраться.
-Phrase: It had **gotten out**.
+Scene: You and a friend at work. He asks about them, already.
+Other: Have they **gotten out**?
+Cue: Он спрашивает про них, про то, что уже есть. Скажи, что выбраться.
+Phrase: They have **gotten out**.
 
 ## 62. come out
 
-Scene: You and a friend at work. He asks about you, as a decision.
-Other: Will you **come out**?
-Cue: Он спрашивает про тебя, про решение. Скажи, что появиться.
-Phrase: I will **come out**.
+Scene: You and a friend on the phone. He asks about him, yesterday.
+Other: Did he **come out**?
+Cue: Он спрашивает про него, про вчера. Скажи, что появиться.
+Phrase: He **came out**.
 
 ## 63. go out
 
-Scene: You and a friend on the phone. He asks about himself, as a plan.
-Other: Am I going to **go out**?
-Cue: Он спрашивает про друга, про план. Скажи, что пойти куда-то из дома.
-Phrase: You are going to **go out**.
+Scene: You and a friend at home. He asks about her, at that moment.
+Other: Was she **going out**?
+Cue: Он спрашивает про неё, про тот момент. Скажи, что пойти куда-то из дома.
+Phrase: She was **going out**.
 
 ## 64. turn out
 
-Scene: You and a friend at home. He asks about it, now.
-Other: Does it turn out the dog is here?
-Cue: Он спрашивает про это, про сейчас. Скажи, что оказаться.
-Phrase: It **turns out** the dog is here.
+Scene: You and a friend at the shop. He asks about it, earlier.
+Other: Had it **turned out** the shop was closed?
+Cue: Он спрашивает про это, про ещё более раннее. Скажи, что оказаться.
+Phrase: It had **turned out** the shop was closed.
 
 ## 65. take off
 
-Scene: You and a friend at the shop. He asks about the two of you, now.
-Other: Are we **taking off** the coat?
-Cue: Он спрашивает про вас двоих, про то, что идёт сейчас. Скажи, что снять это.
-Phrase: We are **taking off** the coat.
+Scene: You and a friend at the station. He asks about you, as a decision.
+Other: Will you **take off**?
+Cue: Он спрашивает про тебя, про решение. Скажи, что взлететь.
+Phrase: I will **take off**.
 
 ## 66. turn on
 
-Scene: You and a friend on the phone. He asks about them, already.
-Other: Have they **turned on** the phone?
-Cue: Он спрашивает про них, про то, что уже есть. Скажи, что включить это.
-Phrase: They have **turned on** the phone.
+Scene: You and a friend on the phone. He asks about himself, as a plan.
+Other: Am I going to **turn on** the phone?
+Cue: Он спрашивает про друга, про план. Скажи, что включить это.
+Phrase: You are going to **turn on** the phone.
 
 ## 67. switch on
 
-Scene: You and a friend on the phone. He asks about him, yesterday.
-Other: Did he switch on the phone?
-Cue: Он спрашивает про него, про вчера. Скажи, что включить это.
-Phrase: He **switched on** the phone.
+Scene: You and a friend on the phone. He asks about the two of you, now.
+Other: Do we **switch on** the phone?
+Cue: Он спрашивает про вас двоих, про сейчас. Скажи, что включить это.
+Phrase: We **switch on** the phone.
 
 ## 68. turn down
 
-Scene: You and a friend on the phone. He asks about her, at that moment.
-Other: Was she **turning down** the phone?
-Cue: Он спрашивает про неё, про тот момент. Скажи, что убавить это.
-Phrase: She was **turning down** the phone.
+Scene: You and a friend on the phone. He asks about them, now.
+Other: Are they **turning down** the phone?
+Cue: Он спрашивает про них, про то, что идёт сейчас. Скажи, что убавить это.
+Phrase: They are **turning down** the phone.
 
 ## 69. turn up
 
-Scene: You and a friend on the phone. He asks about it, earlier.
-Other: Had it **turned up** the phone?
-Cue: Он спрашивает про это, про ещё более раннее. Скажи, что объявиться.
-Phrase: It had **turned up** the phone.
+Scene: You and a friend at work. He asks about him, already.
+Other: Has he **turned up**?
+Cue: Он спрашивает про него, про то, что уже есть. Скажи, что объявиться.
+Phrase: He has **turned up**.
 
 ## 70. turn into
 
-Scene: You and a friend at home. He asks about you, as a decision.
-Other: Will you **turn into** a problem?
-Cue: Он спрашивает про тебя, про решение. Скажи, что превратиться.
-Phrase: I will **turn into** a problem.
+Scene: You and a friend at home. He asks about her, yesterday.
+Other: Did she **turn into** a problem?
+Cue: Он спрашивает про неё, про вчера. Скажи, что превратиться.
+Phrase: She **turned into** a problem.
 
 ## 71. pick up
 
-Scene: You and a friend at the station. He asks about her, as a plan.
-Other: Is she going to **pick** her **up**?
-Cue: Он спрашивает про неё, про план. Скажи, что поднять это.
-Phrase: She is going to **pick** her **up**.
+Scene: You and a friend on the phone. He asks about you, at that moment.
+Other: Were you **picking up** the battery?
+Cue: Он спрашивает про тебя, про тот момент. Скажи, что поднять это.
+Phrase: I was **picking up** the battery.
 
 ## 72. look for
 
-Scene: You and a friend at work. He asks about them, now.
-Other: Do they **look for** them?
-Cue: Он спрашивает про них, про сейчас. Скажи, что искать это.
-Phrase: They **look for** them.
+Scene: You and a friend at home. He asks about himself, earlier.
+Other: Had I **looked for** the key?
+Cue: Он спрашивает про друга, про ещё более раннее. Скажи, что искать это.
+Phrase: You had **looked for** the key.
 
 ## 73. look after
 
-Scene: You and a friend on the phone. He asks about him, now.
-Other: Is he **looking after** him?
-Cue: Он спрашивает про него, про то, что идёт сейчас. Скажи, что присматривать.
-Phrase: He is **looking after** him.
+Scene: You and a friend at the shop. He asks about them, as a decision.
+Other: Will they **look after** them?
+Cue: Он спрашивает про них, про решение. Скажи, что присматривать.
+Phrase: They will **look after** them.
 
 ## 74. look like
 
-Scene: You and a friend at home. He asks about her, already.
-Other: Has she **looked like** her?
-Cue: Он спрашивает про неё, про то, что уже есть. Скажи, что быть похожим.
-Phrase: She has **looked like** her.
+Scene: You and a friend at the station. He asks about him, now.
+Other: Does he **look like** him?
+Cue: Он спрашивает про него, про сейчас. Скажи, что быть похожим.
+Phrase: He **looks like** him.
 
 ## 75. have a look
 
-Scene: You and a friend at the shop. He asks about the two of you, yesterday.
-Other: Did we have a look?
-Cue: Он спрашивает про вас двоих, про вчера. Скажи, что взглянуть.
-Phrase: We **had a look**.
+Scene: You and a friend at work. He asks about himself, now.
+Other: Am I **having a look**?
+Cue: Он спрашивает про друга, про то, что идёт сейчас. Скажи, что взглянуть.
+Phrase: You are **having a look**.
 
 ## 76. have a go
 
-Scene: You and a friend at the station. The learner speaks first, now.
+Scene: You and a friend on the phone. The learner speaks first, now.
 Cue: Скажи, что попробовать.
 Phrase: **Have a go**.
 
 ## 77. go for
 
-Scene: You and a friend at home. He asks about them, at that moment.
-Other: Were they **going for** a walk?
-Cue: Он спрашивает про них, про тот момент. Скажи, что пойти туда.
-Phrase: They were **going for** a walk.
+Scene: You and a friend at home. He asks about the two of you, already.
+Other: Have we **gone for** a walk?
+Cue: Он спрашивает про вас двоих, про то, что уже есть. Скажи, что пойти туда.
+Phrase: We have **gone for** a walk.
 
 ## 78. go through
 
-Scene: You and a friend at work. He asks about him, earlier.
-Other: Had he **gone through** the letter?
-Cue: Он спрашивает про него, про ещё более раннее. Скажи, что пройти через это.
-Phrase: He had **gone through** the letter.
+Scene: You and a friend at work. He asks about them, yesterday.
+Other: Did they **go through** the letter?
+Cue: Он спрашивает про них, про вчера. Скажи, что пройти через это.
+Phrase: They **went through** the letter.
 
 ## 79. go into
 
-Scene: You and a friend at work. He asks about her, as a decision.
-Other: Will she **go into** the letter?
-Cue: Он спрашивает про неё, про решение. Скажи, что вдаваться в это.
-Phrase: She will **go into** the letter.
+Scene: You and a friend at home. He asks about him, earlier.
+Other: Had he **gone into** it?
+Cue: Он спрашивает про него, про ещё более раннее. Скажи, что вдаваться в это.
+Phrase: He had **gone into** it.
 
 ## 80. go around
 
-Scene: You and a friend at the shop. He asks about it, as a plan.
-Other: Is it going to **go around** the shop?
-Cue: Он спрашивает про это, про план. Скажи, что обойти.
-Phrase: It is going to **go around** the shop.
+Scene: You and a friend at the shop. He asks about her, as a decision.
+Other: Will she **go around** the shop?
+Cue: Он спрашивает про неё, про решение. Скажи, что обойти.
+Phrase: She will **go around** the shop.
 
 ## 81. get on
 
-Scene: You and a friend at the station. He asks about you, now.
-Other: Do you **get on** the train?
-Cue: Он спрашивает про тебя, про сейчас. Скажи, что сесть на поезд.
-Phrase: I **get on** the train.
+Scene: You and a friend at the station. He asks about you, as a plan.
+Other: Are you going to **get on** the train?
+Cue: Он спрашивает про тебя, про план. Скажи, что сесть на поезд.
+Phrase: I am going to **get on** the train.
 
 ## 82. get off
 
 Scene: You and a friend at the station. He asks about himself, now.
-Other: Am I **getting off** the train?
-Cue: Он спрашивает про друга, про то, что идёт сейчас. Скажи, что сойти с поезда.
-Phrase: You are **getting off** the train.
+Other: Do I **get off** the train?
+Cue: Он спрашивает про друга, про сейчас. Скажи, что сойти с поезда.
+Phrase: You **get off** the train.
 
 ## 83. get along
 
-Scene: You and a friend at work. He asks about the two of you, already.
-Other: Have we **gotten along**?
-Cue: Он спрашивает про вас двоих, про то, что уже есть. Скажи, что ладить.
-Phrase: We have **gotten along**.
+Scene: You and a friend at the shop. He asks about the two of you, now.
+Other: Are we **getting along**?
+Cue: Он спрашивает про вас двоих, про то, что идёт сейчас. Скажи, что ладить.
+Phrase: We are **getting along**.
 
 ## 84. get on with
 
@@ -587,329 +587,329 @@ Phrase: **Get on with** the letter.
 
 ## 85. get into
 
-Scene: You and a friend at home. He asks about them, yesterday.
-Other: Did they get into the book?
-Cue: Он спрашивает про них, про вчера. Скажи, что увлечься этим.
-Phrase: They **got into** the book.
+Scene: You and a friend at home. He asks about them, already.
+Other: Have they **gotten into** the book?
+Cue: Он спрашивает про них, про то, что уже есть. Скажи, что увлечься этим.
+Phrase: They have **gotten into** the book.
 
 ## 86. get up
 
-Scene: You and a friend on the phone. He asks about him, at that moment.
-Other: Was he **getting up**?
-Cue: Он спрашивает про него, про тот момент. Скажи, что встать.
-Phrase: He was **getting up**.
+Scene: You and a friend at the station. He asks about him, yesterday.
+Other: Did he **get up**?
+Cue: Он спрашивает про него, про вчера. Скажи, что встать.
+Phrase: He **got up**.
 
 ## 87. get to
 
-Scene: You and a friend at home. He asks about her, earlier.
-Other: Had she **gotten** home?
-Cue: Он спрашивает про неё, про ещё более раннее. Скажи, что добраться.
-Phrase: She had **gotten** home.
+Scene: You and a friend at work. He asks about her, at that moment.
+Other: Was she **getting to** work?
+Cue: Он спрашивает про неё, про тот момент. Скажи, что добраться.
+Phrase: She was **getting to** work.
 
 ## 88. get to do
 
-Scene: You and a friend at the shop. He asks about it, as a decision.
-Other: Will it **get to** pay?
-Cue: Он спрашивает про это, про решение. Скажи, что удаться сделать.
-Phrase: It will **get to** pay.
+Scene: You and a friend on the phone. He asks about you, earlier.
+Other: Had you **gotten to** call?
+Cue: Он спрашивает про тебя, про ещё более раннее. Скажи, что удаться сделать.
+Phrase: I had **gotten to** call.
 
 ## 89. come up with
 
-Scene: You and a friend at home. He asks about you, as a plan.
-Other: Are you going to **come up with** a plan?
-Cue: Он спрашивает про тебя, про план. Скажи, что придумать.
-Phrase: I am going to **come up with** a plan.
+Scene: You and a friend at home. He asks about himself, as a decision.
+Other: Will I **come up with** a plan?
+Cue: Он спрашивает про друга, про решение. Скажи, что придумать.
+Phrase: You will **come up with** a plan.
 
 ## 90. come up to
 
-Scene: You and a friend at the station. He asks about her, now.
-Other: Does she come up to her?
-Cue: Он спрашивает про неё, про сейчас. Скажи, что подойти к человеку.
-Phrase: She **comes up to** her.
+Scene: You and a friend at home. He asks about them, as a plan.
+Other: Are they going to **come up to** them?
+Cue: Он спрашивает про них, про план. Скажи, что подойти к человеку.
+Phrase: They are going to **come up to** them.
 
 ## 91. head to
 
-Scene: You and a friend at work. He asks about the two of you, now.
-Other: Are we **heading to** work?
-Cue: Он спрашивает про вас двоих, про то, что идёт сейчас. Скажи, что направиться туда.
-Phrase: We are **heading to** work.
+Scene: You and a friend at the shop. He asks about you, now.
+Other: Do you **head to** the shop?
+Cue: Он спрашивает про тебя, про сейчас. Скажи, что направиться туда.
+Phrase: I **head to** the shop.
 
 ## 92. catch up
 
-Scene: You and a friend on the phone. He asks about him, already.
-Other: Has he **caught up** with him?
-Cue: Он спрашивает про него, про то, что уже есть. Скажи, что догнать.
-Phrase: He has **caught up** with him.
+Scene: You and a friend at the station. He asks about her, now.
+Other: Is she **catching up** with her?
+Cue: Он спрашивает про неё, про то, что идёт сейчас. Скажи, что догнать.
+Phrase: She is **catching up** with her.
 
 ## 93. hold up
 
-Scene: You and a friend at home. He asks about her, yesterday.
-Other: Did she hold her up?
-Cue: Он спрашивает про неё, про вчера. Скажи, что задержать.
-Phrase: She **held** her **up**.
+Scene: You and a friend at work. He asks about them, already.
+Other: Have they **held** them **up**?
+Cue: Он спрашивает про них, про то, что уже есть. Скажи, что задержать.
+Phrase: They have **held** them **up**.
 
 ## 94. run out of
 
-Scene: You and a friend at the shop. He asks about the two of you, at that moment.
-Other: Were we **running out of** bread?
-Cue: Он спрашивает про вас двоих, про тот момент. Скажи, что кончиться.
-Phrase: We were **running out of** bread.
+Scene: You and a friend on the phone. He asks about you, yesterday.
+Other: Did you **run out of** battery?
+Cue: Он спрашивает про тебя, про вчера. Скажи, что кончиться.
+Phrase: I **ran out of** battery.
 
 ## 95. sort out
 
-Scene: You and a friend at home. He asks about them, earlier.
-Other: Had they **sorted out** the problem?
-Cue: Он спрашивает про них, про ещё более раннее. Скажи, что уладить это.
-Phrase: They had **sorted out** the problem.
+Scene: You and a friend at home. He asks about himself, at that moment.
+Other: Was I **sorting out** the problem?
+Cue: Он спрашивает про друга, про тот момент. Скажи, что уладить это.
+Phrase: You were **sorting out** the problem.
 
 ## 96. fill in
 
-Scene: You and a friend at work. He asks about him, as a decision.
-Other: Will he **fill in** the form?
-Cue: Он спрашивает про него, про решение. Скажи, что заполнить это.
-Phrase: He will **fill in** the form.
+Scene: You and a friend at work. He asks about the two of you, earlier.
+Other: Had we **filled in** the form?
+Cue: Он спрашивает про вас двоих, про ещё более раннее. Скажи, что заполнить это.
+Phrase: We had **filled in** the form.
 
 ## 97. put up
 
-Scene: You and a friend at home. He asks about her, as a plan.
-Other: Is she going to **put up** the picture?
-Cue: Он спрашивает про неё, про план. Скажи, что повесить это.
-Phrase: She is going to **put up** the picture.
+Scene: You and a friend at home. He asks about them, as a decision.
+Other: Will they **put up** the picture?
+Cue: Он спрашивает про них, про решение. Скажи, что повесить это.
+Phrase: They will **put up** the picture.
 
 ## 98. put together
 
-Scene: You and a friend at work. He asks about it, now.
-Other: Does it put the letter together?
-Cue: Он спрашивает про это, про сейчас. Скажи, что собрать это.
-Phrase: It **puts** the letter **together**.
+Scene: You and a friend at work. He asks about him, as a plan.
+Other: Is he going to **put** the letter **together**?
+Cue: Он спрашивает про него, про план. Скажи, что собрать это.
+Phrase: He is going to **put** the letter **together**.
 
 ## 99. hand over
 
-Scene: You and a friend at the station. He asks about you, now.
-Other: Are you **handing over** the ticket?
-Cue: Он спрашивает про тебя, про то, что идёт сейчас. Скажи, что передать это.
-Phrase: I am **handing over** the ticket.
+Scene: You and a friend at home. He asks about her, now.
+Other: Does she **hand over** the key?
+Cue: Он спрашивает про неё, про сейчас. Скажи, что передать это.
+Phrase: She **hands over** the key.
 
 ## 100. back up
 
-Scene: You and a friend at home. He asks about himself, already.
-Other: Have I **backed up** the story?
-Cue: Он спрашивает про друга, про то, что уже есть. Скажи, что подтвердить.
-Phrase: You have **backed up** the story.
+Scene: You and a friend at home. He asks about you, now.
+Other: Are you **backing up** the story?
+Cue: Он спрашивает про тебя, про то, что идёт сейчас. Скажи, что подтвердить.
+Phrase: I am **backing up** the story.
 
 ## 101. take over
 
-Scene: You and a friend at home. He asks about the two of you, yesterday.
-Other: Did we take over the job?
-Cue: Он спрашивает про вас двоих, про вчера. Скажи, что взять это на себя.
-Phrase: We **took over** the job.
+Scene: You and a friend at home. He asks about himself, already.
+Other: Have I **taken over** the job?
+Cue: Он спрашивает про друга, про то, что уже есть. Скажи, что взять это на себя.
+Phrase: You have **taken over** the job.
 
 ## 102. bring up
 
-Scene: You and a friend at home. He asks about him, at that moment.
-Other: Was he **bringing up** the problem?
-Cue: Он спрашивает про него, про тот момент. Скажи, что поднять тему.
-Phrase: He was **bringing up** the problem.
+Scene: You and a friend at home. He asks about the two of you, yesterday.
+Other: Did we **bring up** the problem?
+Cue: Он спрашивает про вас двоих, про вчера. Скажи, что поднять тему.
+Phrase: We **brought up** the problem.
 
 ## 103. take place
 
-Scene: You and a friend at work. He asks about it, earlier.
-Other: Had it **taken place**?
-Cue: Он спрашивает про это, про ещё более раннее. Скажи, что состояться.
-Phrase: It had **taken place**.
+Scene: You and a friend at the shop. He asks about it, at that moment.
+Other: Was it **taking place**?
+Cue: Он спрашивает про это, про тот момент. Скажи, что состояться.
+Phrase: It was **taking place**.
 
 ## 104. make sure
 
-Scene: You and a friend on the phone. He asks about himself, as a decision.
-Other: Will I **make sure** the phone is off?
-Cue: Он спрашивает про друга, про решение. Скажи, что убедиться.
-Phrase: You will **make sure** the phone is off.
+Scene: You and a friend at work. He asks about them, earlier.
+Other: Had they **made sure** the letter was ready?
+Cue: Он спрашивает про них, про ещё более раннее. Скажи, что убедиться.
+Phrase: They had **made sure** the letter was ready.
 
 ## 105. take care of
 
-Scene: You and a friend at home. He asks about them, as a plan.
-Other: Are they going to **take care of** them?
-Cue: Он спрашивает про них, про план. Скажи, что позаботиться.
-Phrase: They are going to **take care of** them.
+Scene: You and a friend on the phone. He asks about her, as a decision.
+Other: Will she **take care of** her?
+Cue: Он спрашивает про неё, про решение. Скажи, что позаботиться.
+Phrase: She will **take care of** her.
 
 ## 106. take advantage
 
-Scene: You and a friend at home. He asks about you, now.
-Other: Do you **take advantage** of it?
-Cue: Он спрашивает про тебя, про сейчас. Скажи, что воспользоваться этим.
-Phrase: I **take advantage** of it.
+Scene: You and a friend at home. He asks about the two of you, as a plan.
+Other: Are we going to **take advantage** of it?
+Cue: Он спрашивает про вас двоих, про план. Скажи, что воспользоваться этим.
+Phrase: We are going to **take advantage** of it.
 
 ## 107. take for granted
 
-Scene: You and a friend at the shop. He asks about her, now.
-Other: Is she **taking** her **for granted**?
-Cue: Он спрашивает про неё, про то, что идёт сейчас. Скажи, что считать это обычным.
-Phrase: She is **taking** her **for granted**.
+Scene: You and a friend at home. He asks about them, now.
+Other: Do they **take** it **for granted**?
+Cue: Он спрашивает про них, про сейчас. Скажи, что считать это обычным.
+Phrase: They **take** it **for granted**.
 
 ## 108. deal with
 
-Scene: You and a friend at the station. He asks about them, already.
-Other: Have they **dealt with** them?
-Cue: Он спрашивает про них, про то, что уже есть. Скажи, что справиться с этим.
-Phrase: They have **dealt with** them.
+Scene: You and a friend at the shop. He asks about him, now.
+Other: Is he **dealing with** it?
+Cue: Он спрашивает про него, про то, что идёт сейчас. Скажи, что справиться с этим.
+Phrase: He is **dealing with** it.
 
 ## 109. rely on
 
-Scene: You and a friend at work. He asks about him, yesterday.
-Other: Did he rely on him?
-Cue: Он спрашивает про него, про вчера. Скажи, что полагаться.
-Phrase: He **relied on** him.
+Scene: You and a friend at the station. He asks about them, already.
+Other: Have they **relied on** them?
+Cue: Он спрашивает про них, про то, что уже есть. Скажи, что полагаться.
+Phrase: They have **relied on** them.
 
 ## 110. work on
 
-Scene: You and a friend at work. He asks about himself, at that moment.
-Other: Was I **working on** the letter?
-Cue: Он спрашивает про друга, про тот момент. Скажи, что работать над этим.
-Phrase: You were **working on** the letter.
+Scene: You and a friend at work. He asks about you, yesterday.
+Other: Did you **work on** the letter?
+Cue: Он спрашивает про тебя, про вчера. Скажи, что работать над этим.
+Phrase: I **worked on** the letter.
 
 ## 111. manage to
 
-Scene: You and a friend on the phone. He asks about the two of you, earlier.
-Other: Had we **managed to** call?
-Cue: Он спрашивает про вас двоих, про ещё более раннее. Скажи, что суметь.
-Phrase: We had **managed to** call.
+Scene: You and a friend at work. He asks about himself, at that moment.
+Other: Was I **managing to** work?
+Cue: Он спрашивает про друга, про тот момент. Скажи, что суметь.
+Phrase: You were **managing to** work.
 
 ## 112. afford to
 
-Scene: You and a friend at home. He asks about them, now.
-Other: Can they **afford to** go?
-Cue: Он спрашивает про них, про сейчас. Скажи, что позволить себе.
-Phrase: They can **afford to** go.
+Scene: You and a friend on the phone. He asks about the two of you, now.
+Other: Can we **afford to** call?
+Cue: Он спрашивает про вас двоих, про сейчас. Скажи, что позволить себе.
+Phrase: We can **afford to** call.
 
 ## 113. happen to
 
-Scene: You and a friend at the shop. He asks about him, as a decision.
-Other: Will he **happen to** pay?
-Cue: Он спрашивает про него, про решение. Скажи, что случайно оказаться.
-Phrase: He will **happen to** pay.
+Scene: You and a friend at home. He asks about them, yesterday.
+Other: Did they **happen to** be at home?
+Cue: Он спрашивает про них, про вчера. Скажи, что случайно оказаться.
+Phrase: They **happened to** be at home.
 
 ## 114. bother to
 
-Scene: You and a friend at the station. He asks about her, as a plan.
-Other: Is she going to **bother to** wait?
-Cue: Он спрашивает про неё, про план. Скажи, что потрудиться.
-Phrase: She is going to **bother to** wait.
+Scene: You and a friend at the shop. He asks about him, earlier.
+Other: Had he **bothered to** pay?
+Cue: Он спрашивает про него, про ещё более раннее. Скажи, что потрудиться.
+Phrase: He had **bothered to** pay.
 
 ## 115. act on
 
-Scene: You and a friend at home. He asks about it, now.
-Other: Does it act on the advice?
-Cue: Он спрашивает про это, про сейчас. Скажи, что последовать совету.
-Phrase: It **acts on** the advice.
+Scene: You and a friend at home. He asks about her, as a decision.
+Other: Will she **act on** the advice?
+Cue: Он спрашивает про неё, про решение. Скажи, что последовать совету.
+Phrase: She will **act on** the advice.
 
 ## 116. could hardly
 
-Scene: You and a friend at work. He asks about you, now.
-Other: Could you work?
+Scene: You and a friend at the station. He asks about you, now.
+Other: Could you wait?
 Cue: Он спрашивает про тебя, про сейчас. Скажи, что едва мог.
-Phrase: I **could hardly** work.
+Phrase: I **could hardly** wait.
 
 ## 117. I'm afraid
 
-Scene: You and a friend on the phone. He tells you the news, now.
-Other: The phone is off.
+Scene: You and a friend at work. He tells you the news, now.
+Other: The letter is ready.
 Cue: Он говорит про тебя, про сейчас. Скажи, что боюсь, что нет.
-Phrase: **I'm afraid** the phone is off.
+Phrase: **I'm afraid** not.
 
 ## 118. that's it
 
-Scene: You and a friend at home. He tells you the news, now.
-Other: The dog is here.
+Scene: You and a friend on the phone. He tells you the news, now.
+Other: The phone is off.
 Cue: Он говорит про это, про сейчас. Скажи, что вот и всё.
 Phrase: **That's it**.
 
 ## 119. of course
 
-Scene: You and a friend at the shop. He invites you, now.
+Scene: You and a friend at home. He invites you, now.
 Other: Are you coming?
 Cue: Он зовёт про тебя, про сейчас. Скажи, что конечно.
 Phrase: **Of course**.
 
 ## 120. all right
 
-Scene: You and a friend at the station. He invites you, now.
+Scene: You and a friend at the shop. He invites you, now.
 Other: Are you coming?
 Cue: Он зовёт про тебя, про сейчас. Скажи, что ладно.
 Phrase: **All right**.
 
 ## 121. never mind
 
-Scene: You and a friend at work. The learner speaks first, now.
+Scene: You and a friend at the station. The learner speaks first, now.
 Cue: Скажи, что неважно.
 Phrase: **Never mind**.
 
 ## 122. as usual
 
-Scene: You and a friend on the phone. He tells you the news, now.
-Other: The phone is off.
+Scene: You and a friend at work. He tells you the news, now.
+Other: The letter is ready.
 Cue: Он говорит про тебя, про сейчас. Скажи, что как обычно.
 Phrase: **As usual**.
 
 ## 123. by the way
 
-Scene: You and a friend at home. He tells you the news, now.
-Other: The dog is here.
+Scene: You and a friend on the phone. He tells you the news, now.
+Other: The phone is off.
 Cue: Он говорит про тебя, про сейчас. Скажи, что кстати.
 Phrase: **By the way**.
 
 ## 124. what about
 
-Scene: You and a friend at the shop. The learner speaks first, now.
+Scene: You and a friend at home. The learner speaks first, now.
 Cue: Скажи, что а как насчёт этого.
-Phrase: **What about** bread?
+Phrase: **What about** the key?
 
 ## 125. how about
 
-Scene: You and a friend at the station. The learner speaks first, now.
+Scene: You and a friend at the shop. The learner speaks first, now.
 Cue: Скажи, что а как насчёт этого.
-Phrase: **How about** the ticket?
+Phrase: **How about** bread?
 
 ## 126. on the way
 
-Scene: You and a friend at work. He asks about himself, yesterday.
-Other: Was I **on the way** to work?
-Cue: Он спрашивает про друга, про вчера. Скажи, что быть по пути.
-Phrase: You were **on the way** to work.
+Scene: You and a friend at the station. He asks about himself, now.
+Other: Am I **on the way** to the station?
+Cue: Он спрашивает про друга, про сейчас. Скажи, что быть по пути.
+Phrase: You are **on the way** to the station.
 
 ## 127. in front of
 
-Scene: You and a friend on the phone. He asks about them, as a decision.
-Other: Will they be **in front of** them?
-Cue: Он спрашивает про них, про решение. Скажи, что быть перед этим.
-Phrase: They will be **in front of** them.
+Scene: You and a friend at work. He asks about the two of you, yesterday.
+Other: Were we **in front of** it?
+Cue: Он спрашивает про вас двоих, про вчера. Скажи, что быть перед этим.
+Phrase: We were **in front of** it.
 
 ## 128. next to
 
-Scene: You and a friend at home. He asks about him, now.
-Other: Is he **next to** him?
-Cue: Он спрашивает про него, про сейчас. Скажи, что быть рядом.
-Phrase: He is **next to** him.
+Scene: You and a friend on the phone. He asks about him, as a decision.
+Other: Will he be **next to** him?
+Cue: Он спрашивает про него, про решение. Скажи, что быть рядом.
+Phrase: He will be **next to** him.
 
 ## 129. next door
 
-Scene: You and a friend at the shop. He asks about himself, yesterday.
-Other: Was I **next door**?
-Cue: Он спрашивает про друга, про вчера. Скажи, что быть по соседству.
-Phrase: You were **next door**.
+Scene: You and a friend at home. He asks about himself, now.
+Other: Am I **next door**?
+Cue: Он спрашивает про друга, про сейчас. Скажи, что быть по соседству.
+Phrase: You are **next door**.
 
 ## 130. in charge
 
-Scene: You and a friend at the station. He asks about the two of you, as a decision.
-Other: Will we be **in charge**?
-Cue: Он спрашивает про вас двоих, про решение. Скажи, что отвечать за дело.
-Phrase: We will be **in charge**.
+Scene: You and a friend at the shop. He asks about the two of you, yesterday.
+Other: Were we **in charge**?
+Cue: Он спрашивает про вас двоих, про вчера. Скажи, что отвечать за дело.
+Phrase: We were **in charge**.
 
 ## 131. in touch
 
-Scene: You and a friend at work. He asks about them, now.
-Other: Are they **in touch**?
-Cue: Он спрашивает про них, про сейчас. Скажи, что быть на связи.
-Phrase: They are **in touch**.
+Scene: You and a friend at the station. He asks about them, as a decision.
+Other: Will they be **in touch**?
+Cue: Он спрашивает про них, про решение. Скажи, что быть на связи.
+Phrase: They will be **in touch**.
 
 ## 132. in mind
 
@@ -920,7 +920,7 @@ Phrase: He has the job **in mind**.
 
 ## 133. in the way
 
-Scene: You and a friend on the phone. He asks about her, yesterday.
+Scene: You and a friend at work. He asks about her, yesterday.
 Other: Was she **in the way**?
 Cue: Он спрашивает про неё, про вчера. Скажи, что мешать.
 Phrase: She was **in the way**.
@@ -934,155 +934,155 @@ Phrase: We will have music **in common**.
 
 ## 135. good at
 
-Scene: You and a friend at home. He asks about it, now.
-Other: Is it **good at** sport?
-Cue: Он спрашивает про это, про сейчас. Скажи, что хорошо это уметь.
-Phrase: It is **good at** sport.
+Scene: You and a friend at home. He asks about you, now.
+Other: Are you **good at** sport?
+Cue: Он спрашивает про тебя, про сейчас. Скажи, что хорошо это уметь.
+Phrase: I am **good at** sport.
 
 ## 136. to blame
 
-Scene: You and a friend at home. He asks about you, yesterday.
-Other: Were you **to blame**?
-Cue: Он спрашивает про тебя, про вчера. Скажи, что быть виноватым.
-Phrase: I was **to blame**.
+Scene: You and a friend on the phone. He asks about himself, yesterday.
+Other: Was I **to blame**?
+Cue: Он спрашивает про друга, про вчера. Скажи, что быть виноватым.
+Phrase: You were **to blame**.
 
 ## 137. no good
 
-Scene: You and a friend at the shop. He asks about it, as a decision.
+Scene: You and a friend at home. He asks about it, as a decision.
 Other: Will it be **no good**?
 Cue: Он спрашивает про это, про решение. Скажи, что быть бесполезным.
 Phrase: It will be **no good**.
 
 ## 138. to do with
 
-Scene: You and a friend at the station. He asks about it, as a plan.
-Other: Is it going **to** have to **do with** the ticket?
-Cue: Он спрашивает про это, про план. Скажи, что иметь к этому отношение.
-Phrase: It is going **to** have to **do with** the ticket.
+Scene: You and a friend at the shop. He asks about it, now.
+Other: Does it have **to do with** bread?
+Cue: Он спрашивает про это, про сейчас. Скажи, что иметь к этому отношение.
+Phrase: It has **to do with** bread.
 
 ## 139. when it comes to
 
-Scene: You and a friend at work. The learner speaks first, now.
+Scene: You and a friend at the station. The learner speaks first, now.
 Cue: Скажи, что когда речь об этом.
-Phrase: **When it comes to** the letter.
+Phrase: **When it comes to** the ticket.
 
 ## 140. no matter
 
-Scene: You and a friend on the phone. He tells you the news, now.
-Other: The phone is off.
+Scene: You and a friend at work. He tells you the news, now.
+Other: The letter is ready.
 Cue: Он говорит про тебя, про сейчас. Скажи, что что бы ни было.
 Phrase: **No matter**.
 
 ## 141. no sign of
 
-Scene: You and a friend at home. He asks what is there, now.
-Other: Is there a sign of the key?
-Cue: Он спрашивает про это, про сейчас. Скажи, что никаких признаков.
-Phrase: There is **no sign of** the key.
+Scene: You and a friend on the phone. He asks what is there, already.
+Other: Has there been a sign of the battery?
+Cue: Он спрашивает про это, про то, что уже есть. Скажи, что никаких признаков.
+Phrase: There has been **no sign of** the battery.
 
 ## 142. at the moment
 
-Scene: You and a friend at the shop. He asks about himself, now.
-Other: Am I paying **at the moment**?
-Cue: Он спрашивает про друга, про то, что идёт сейчас. Скажи, что в данный момент.
-Phrase: You are paying **at the moment**.
+Scene: You and a friend at home. He asks about the two of you, now.
+Other: Are we going **at the moment**?
+Cue: Он спрашивает про вас двоих, про то, что идёт сейчас. Скажи, что в данный момент.
+Phrase: We are going **at the moment**.
 
 ## 143. right now
 
-Scene: You and a friend at the station. He asks about the two of you, now.
-Other: Are we waiting **right now**?
-Cue: Он спрашивает про вас двоих, про то, что идёт сейчас. Скажи, что прямо сейчас.
-Phrase: We are waiting **right now**.
+Scene: You and a friend at the shop. He asks about them, now.
+Other: Are they paying **right now**?
+Cue: Он спрашивает про них, про то, что идёт сейчас. Скажи, что прямо сейчас.
+Phrase: They are paying **right now**.
 
 ## 144. in advance
 
-Scene: You and a friend on the phone. He asks about them, as a decision.
-Other: Will they call **in advance**?
-Cue: Он спрашивает про них, про решение. Скажи, что заранее.
-Phrase: They will call **in advance**.
+Scene: You and a friend on the phone. He asks about him, as a decision.
+Other: Will he call **in advance**?
+Cue: Он спрашивает про него, про решение. Скажи, что заранее.
+Phrase: He will call **in advance**.
 
 ## 145. all the time
 
-Scene: You and a friend at work. He asks about him, now.
-Other: Does he work **all the time**?
-Cue: Он спрашивает про него, про сейчас. Скажи, что всё время.
-Phrase: He works **all the time**.
+Scene: You and a friend at the station. He asks about her, now.
+Other: Does she wait **all the time**?
+Cue: Он спрашивает про неё, про сейчас. Скажи, что всё время.
+Phrase: She waits **all the time**.
 
 ## 146. up to date
 
-Scene: You and a friend on the phone. He asks about her, yesterday.
-Other: Was she **up to date**?
-Cue: Он спрашивает про неё, про вчера. Скажи, что быть в курсе.
-Phrase: She was **up to date**.
+Scene: You and a friend at work. He asks about you, yesterday.
+Other: Were you **up to date**?
+Cue: Он спрашивает про тебя, про вчера. Скажи, что быть в курсе.
+Phrase: I was **up to date**.
 
 ## 147. I don't know
 
-Scene: You and a friend at home. He asks about you, now.
-Other: Do you know the dog is here?
+Scene: You and a friend on the phone. He asks about you, now.
+Other: Do you know the phone is off?
 Cue: Он спрашивает про тебя, про сейчас. Скажи, что не знать этого.
-Phrase: **I don't know** the dog is here.
+Phrase: **I don't know** the phone is off.
 
 ## 148. I think
 
-Scene: You and a friend at the shop. He asks about you, now.
-Other: Do you think the shop is closed?
+Scene: You and a friend at home. He asks about you, now.
+Other: Do you think the dog is here?
 Cue: Он спрашивает про тебя, про сейчас. Скажи, что так думать.
-Phrase: **I think** the shop is closed.
+Phrase: **I think** the dog is here.
 
 ## 149. I don't think
 
-Scene: You and a friend at the station. He asks about you, now.
-Other: Do you think the train is late?
+Scene: You and a friend at the shop. He asks about you, now.
+Other: Do you think the shop is closed?
 Cue: Он спрашивает про тебя, про сейчас. Скажи, что так не думать.
-Phrase: **I don't think** the train is late.
+Phrase: **I don't think** the shop is closed.
 
 ## 150. I thought
 
-Scene: You and a friend at work. He asks about you, yesterday.
-Other: Did you think the letter was ready?
+Scene: You and a friend at the station. He asks about you, yesterday.
+Other: Did you think the train was late?
 Cue: Он спрашивает про тебя, про вчера. Скажи, что так думал.
-Phrase: **I thought** the letter was ready.
+Phrase: **I thought** the train was late.
 
 ## 151. want to
 
-Scene: You and a friend on the phone. He asks about it, earlier.
-Other: Had it **wanted to** call?
-Cue: Он спрашивает про это, про ещё более раннее. Скажи, что хотеть.
-Phrase: It had **wanted to** call.
+Scene: You and a friend at work. He asks about himself, earlier.
+Other: Had I **wanted to** work?
+Cue: Он спрашивает про друга, про ещё более раннее. Скажи, что хотеть.
+Phrase: You had **wanted to** work.
 
 ## 152. what do you think
 
-Scene: You and a friend at home. The learner speaks first, now.
+Scene: You and a friend on the phone. The learner speaks first, now.
 Cue: Скажи, что что думает друг.
 Phrase: **What do you think**?
 
 ## 153. do you know
 
-Scene: You and a friend at the shop. The learner speaks first, now.
+Scene: You and a friend at home. The learner speaks first, now.
 Cue: Скажи, что знать это.
-Phrase: **Do you know** the shop is closed?
+Phrase: **Do you know** the dog is here?
 
 ## 154. I'll tell you what
 
-Scene: You and a friend at the station. The learner speaks first, as a decision.
+Scene: You and a friend at the shop. The learner speaks first, as a decision.
 Cue: Скажи, что знаешь что.
 Phrase: **I'll tell you what**.
 
 ## 155. what do you mean
 
-Scene: You and a friend at work. The learner speaks first, now.
+Scene: You and a friend at the station. The learner speaks first, now.
 Cue: Скажи, что что имеет в виду друг.
 Phrase: **What do you mean**?
 
 ## 156. thank you
 
-Scene: You and a friend on the phone. He gives you something, now.
+Scene: You and a friend at work. He gives you something, now.
 Other: Here you are.
 Cue: Он даёт вещь про тебя, про сейчас. Скажи, что спасибо.
 Phrase: **Thank you**.
 
 ## 157. what are you doing
 
-Scene: You and a friend at home. The learner speaks first, now.
+Scene: You and a friend on the phone. The learner speaks first, now.
 Cue: Скажи, что что делает друг.
 Phrase: **What are you doing**?
