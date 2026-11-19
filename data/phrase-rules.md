@@ -39,7 +39,7 @@ Past Continuous and Past Perfect Simple are among the eight. No row names either
 
 ## Slot
 
-Fill the slot named on the row.
+Fill the slot named on the row. In a start scene, the word is the one named for that place in `data/start-scenes.md`.
 
 - none. Nothing follows the chunk.
 - verb. A verb from the B1 word list. After to, and after a modal label, it stays in the base form. keep on, and the verb choice of feel like or get used to, take -ing. In get to do, replace do with that verb.
