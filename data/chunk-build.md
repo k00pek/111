@@ -20,7 +20,7 @@ This file does not contain the finished sentences.
 | get used to | subject | Present Simple | thing or verb | none | question |
 | had better | subject | had better | verb | none | question |
 | might as well | subject | might as well | verb | none | question |
-| be likely to | subject | Present Simple | verb | none | question |
+| be likely to | be | Present Simple | verb | none | question |
 | bound to | be | Present Simple | verb | none | question |
 | tend to | subject | Present Simple | verb | none | question |
 | it takes | ready | Present Simple | thing | none | question |
@@ -172,7 +172,7 @@ This file does not contain the finished sentences.
 | to blame | be | Present Simple | none | none | question |
 | no good | be | Present Simple | none | none | question |
 | to do with | have | Present Simple | thing | no | question |
-| when it comes to | ready | Present Simple | thing | none | question |
+| when it comes to | ready | Present Simple | thing | none | none |
 | no matter | ready | no verb | none | none | news |
 | no sign of | there | Present Simple | thing or person | no | question |
 | in the end | beside | Past Simple | none | none | question |

@@ -36,17 +36,17 @@ The slot takes the word for that place. It takes that word once.
 bread, milk, and time take no a. Every other thing takes a when it is new, and the when it is the one already in the scene.
 
 - thing, of + thing, and a thing slot marked before: the thing for the place.
-- verb: the verb for the place, in the base form. At home the verb is go: I have to go.
-- thing or verb: the thing. good at and get used to take the place verb with -ing: good at working, get used to working.
+- verb: the verb for the place, in the base form. At home the verb is go: She has to go. keep on takes -ing: She keeps on going. get to do replaces do, in the phrase and in the question: She got to go. Did she get to go?
+- thing or verb: the thing. good at, get used to, and feel like take the place verb with -ing: good at going, get used to going, feels like going. afford to takes that verb in the base form: She affords to go.
 - place or verb: home is at home, shop is at the shop, station is at the station, work is at work, phone is on the phone. She ended up at home.
-- place: home stays home, work stays work, and shop, station, and phone take the. She got home. She got to work. She went around the shop. head to already has to: she is heading to the shop, she is heading home, she is heading to work.
+- place: home stays home, work stays work, and shop, station, and phone take the. She got home. She got to work. head to already has to: she is heading to the shop, she is heading home, she is heading to work. The question drops to before home as well. Did she get home? Is she heading home? go around uses the shop. She went around the shop. Did she go around the shop?
 - to + place, and to + place or a thing: that place. home, here, and there take no to. She went back to the shop. I went back home.
-- person, and with + person: the friend. When the pronoun is he or she, that person.
-- thing or person: the third person when the pronoun is he or she. Otherwise the thing for the place.
+- person, and with + person: you, the friend. he is him, she is her, they is them.
+- thing or person: him when the pronoun is he, her when it is she, them when it is they. Otherwise the thing for the place.
 - none or thing: the thing for the place. take off at the station takes no thing, and the cue is «взлететь». At the other places the thing is coat, and the cue stays «снять это».
-- clause: the news sentence for the place. In a past time, is becomes was. I'm afraid the dog is here. I didn't know the dog was here.
+- clause: the news sentence for the place. When it is not the start of the line, its first word loses the capital. In a past time, is becomes was. I'm afraid the dog is here. What if the dog is here? I didn't know the dog was here.
 - none: nothing follows the chunk.
-- beside: the place verb, in the scene time, and the chunk at the end. I'm working at the moment. I'll call in advance.
+- beside: the place verb, in the scene time, and the chunk at the end. The question uses that same verb. Is she going at the moment? Does she go all the time? Will she go in advance?
 
 These chunks do not take the thing in the place table.
 
@@ -63,10 +63,15 @@ These chunks do not take the thing in the place table.
 | go through | work | letter |
 | go into | work | letter |
 | it takes | home | time |
+| get on with | work | letter |
+| get into | home | book |
+| turn into | home | problem |
 
 run out of keeps the chosen place and uses milk at home, bread at the shop, time at the station, time at work, and battery on the phone.
 
-A person slot takes the person the pronoun names. I and we use the friend when a person is required and the pronoun is not he or she.
+turn into takes a, because the result is new. She turned into a problem. The other words in that table take the.
+
+A person slot uses the word in the person bullet. I and we use you.
 
 ## Pronoun
 
@@ -81,7 +86,7 @@ Choose one: I, you, we, they, he, she, it.
 
 Patterns subject, be, have, beside, and question with have take this pronoun.
 
-A chunk that already contains its pronoun keeps that pronoun. I don't know, I think, I don't think, I thought, and I'll tell you what keep I. What do you think?, Do you know?, What do you mean?, and What are you doing? keep you. They say keeps they. Up to you keeps you. It takes and that's it keep it. There is / there are keeps there.
+A chunk that already contains its pronoun keeps that pronoun. I don't know, I think, I don't think, I thought, and I'll tell you what keep I. What do you think?, Do you know?, What do you mean?, and What are you doing? keep you. They say keeps they. It takes, that's it, up to you, take place, no good, and to do with keep it. The you inside up to you stays you. It is up to you. There is / there are keeps there.
 
 When a chunk cannot change its pronoun, the next scene changes the chunk so the pronoun still changes.
 
@@ -93,14 +98,16 @@ Choose one of the eight forms in `data/b1-tenses.md`.
 
 The other person's line and the learner's phrase use this same time. The cue names it in Russian, before the learner hears the phrase.
 
-- Present Simple: про сейчас
-- Present Continuous: про то, что идёт сейчас
-- Present Perfect Simple: про то, что уже есть
-- Past Simple: про вчера
-- Past Continuous: про тот момент
-- Past Perfect Simple: про ещё более раннее
-- will: про решение
-- going to: про план
+- Present Simple: про сейчас. Scene word: now
+- Present Continuous: про то, что идёт сейчас. Scene word: now
+- Present Perfect Simple: про то, что уже есть. Scene word: already
+- Past Simple: про вчера. Scene word: yesterday
+- Past Continuous: про тот момент. Scene word: at that moment
+- Past Perfect Simple: про ещё более раннее. Scene word: earlier
+- will: про решение. Scene word: as a decision
+- going to: про план. Scene word: as a plan
+
+used to uses про раньше. Its scene word is before. Any other row that is not one of the eight uses про сейчас. Its scene word is now.
 
 The scene uses the form on the row. It uses another form only from the list for that pattern.
 
@@ -126,6 +133,30 @@ These chunks set the time. The scene uses that time.
 
 When a chunk cannot change its time, the next scene changes the chunk so the time still changes.
 
+## Scene line
+
+You and a friend, then the place, then why someone speaks, then the scene word for the time.
+
+| Place | In the line |
+| --- | --- |
+| home | at home |
+| shop | at the shop |
+| station | at the station |
+| work | at work |
+| phone | on the phone |
+
+| Prompt | Why |
+| --- | --- |
+| question | He asks about the phrase's subject |
+| invitation | He invites you. thank you: He gives you something |
+| request | He asks you to help |
+| news | He tells you the news |
+| none | The learner speaks first |
+
+The question names the subject: you, himself, the two of you, him, her, them, it. there uses He asks what is there.
+
+You and a friend at home. He asks about her, yesterday.
+
 ## Prompt
 
 The prompt is the last column of the chunk's row in `data/chunk-build.md`.
@@ -134,7 +165,7 @@ The prompt is the last column of the chunk's row in `data/chunk-build.md`.
 - invitation. The line does not contain the chunk. of course and all right use Are you coming? thank you uses Here you are.
 - request. The line does not contain the chunk. Can you help? In the past, Could you help? With will, Will you help? With going to, Are you going to help?
 - news. The line does not contain the chunk. It is the news sentence for the place. is in that sentence changes with the time: is, was, has been, had been, will be, or is going to be. Present Continuous uses is. Past Continuous uses was. The dog is here. The shop was closed. The train will be late.
-- none. No line from the other person. The learner speaks first.
+- none. No line from the other person. The learner speaks first. when it comes to is already the sentence, so its prompt is none. When it comes to the key. A chunk that is already a question keeps the question mark. What do you think? Do you know the dog is here? What do you mean? What are you doing?
 
 Question shapes. The first word of the chunk takes the ending. The rest of the chunk stays, then the slot word. looking for the key. found out the time.
 
@@ -143,17 +174,23 @@ there is / there are asks with there and be. Is there a key? Was there a key? Ha
 - Present Simple: Do or Does + subject + base form
 - Past Simple: Did + subject + base form
 - will: Will + subject + base form
-- going to: a form of be + subject + going to + base form
+- going to: a form of be + subject + going to + the slot verb. The chunk going to is that frame, so it is not repeated. Is she going to go?
 - Present Continuous: a form of be + subject + the verb with -ing
 - Present Perfect Simple: have or has + subject + the participle
 - Past Continuous: was or were + subject + the verb with -ing
 - Past Perfect Simple: had + subject + the participle
 
-For pattern be, the question is the form of be, then the subject, then the chunk. Is she fond of the key?
+For pattern be, the question is the form of be, then the subject, then the chunk, then the slot word. Is she fond of the key? Was she fond of the key? will splits around the subject: Will she be fond of the key?
 
-For pattern have, the question is Do or Does, then the subject, then have, then the chunk. Do you have any idea?
+For pattern have, the question is Do or Does, then the subject, then have, then the chunk. Do you have any idea? A slot marked before stays before the chunk. Does she have the key in common? question with have uses that same order. Does she have the key in mind?
 
-A chunk that already contains I and a verb drops those words in the question and keeps the verb. Do you know the time? The learner says I don't know the time.
+one's matches the subject in the question too. Has she made up her mind?
+
+have got and have got to ask with have, not with do. Has she got the key? Has she got to go?
+
+A modal keeps its own word. The modal comes first, then the subject, then the rest of the chunk, then the slot word. Ought she to go? Can she tell the dog is here? Would she like the key? Would she say the dog is here? Had she better go? Might she as well go? Used she to go? Could she hardly go?
+
+A chunk that already contains its subject uses that subject once. I don't know, I think, and I don't think drop I, and the question stays positive. Do you know the dog is here? The learner says I don't know the dog is here. I thought uses Did you think the dog was here? it takes uses Does it take time? they say uses Do they say the dog is here? up to you uses Is it up to you? take place uses Did it take place? no good uses Is it no good? to do with uses Does it have to do with the key?
 
 ## Cue
 
