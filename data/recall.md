@@ -4,27 +4,30 @@ How to bring a chunk back. This file is the procedure. It is not a list of recal
 
 The chunk returns. The finished line that introduced it does not. Each recall is a new line on that same chunk.
 
+A lesson is one sitting of about thirty minutes. The lessons go one a day, in order. One lesson is one conversation, in one place.
+
+## The line
+
 Build the line with `data/phrase-rules.md`. Choose the pronoun and the time with the rules in `data/start-scenes.md`. Build the scene, the other person's line, and the Russian cue the same way. The cue column stays the cue column.
 
 Use a different pronoun from the last line of this chunk, and a different time, when the chunk allows both. One recall keeps one pronoun and one time.
 
-When the chunk cannot change its pronoun, keep the pronoun and change the time. When it cannot change its time, keep the time and change the pronoun. When it can change neither, change the slot word. Of course. Thank you. Go on.
+When the chunk cannot change its pronoun, keep the pronoun and change the time. When it cannot change its time, keep the time and change the pronoun. When it can change neither, change the slot word. Of course stays Of course. Thank you stays Thank you. Go on stays Go on.
 
-The slot word is the word for the place of the conversation this recall sits in.
+The place is the place of the lesson this recall sits in. The slot word is the word for that place.
 
-A lesson is one sitting of about thirty minutes. The lessons go one a day, in order.
+## Output
 
-## The prompt
+Four lines, in this order.
 
-Say the scene line.
+1. Scene.
+2. Other. Leave this line out when the prompt is none, and when the line would contain the chunk.
+3. Cue.
+4. Phrase.
 
-Say the other person's line only when that line does not contain the chunk. Did she have to wait? contains have to, so it stays out. Are you coming? does not contain of course, so it is said.
+Say the scene line. Say the other person's line when it is there. Say the Russian cue. The learner says the line. Then say the finished line.
 
-Say the Russian cue.
-
-The learner says the line. Then say the finished line.
-
-## The intervals
+## When
 
 Count from the moment the chunk is first introduced. Each recall comes at about five times the time of the one before.
 
@@ -41,6 +44,17 @@ Count from the moment the chunk is first introduced. Each recall comes at about 
 | 9 | 25 days | twenty-five lessons later |
 | 10 | 4 months | about four months later |
 
+A lesson brings back every chunk that is due.
+
+- A chunk introduced in this lesson comes back at 5 seconds, at 25 seconds, at 2 minutes, and at 10 minutes. These four sit between the other lines, so the gaps are filled.
+- A chunk introduced in the previous lesson comes back once.
+- A chunk introduced five lessons ago comes back once.
+- A chunk introduced twenty-five lessons ago comes back once.
+
+The hour and the five hours come later the same day, after the lesson. They are a fresh line. They are not part of the thirty minutes.
+
+When a recall falls after the last lesson, it stays due. It comes in a later lesson.
+
 The tenth recall holds the chunk for more than a year.
 
 A chunk whose line is only the chunk may stop before the tenth recall. A chunk that builds a longer line uses the whole schedule.
@@ -53,20 +67,22 @@ The next recall is a new line, on the schedule above. The gap keeps growing.
 
 ## Example
 
-have to is introduced as I have to go.
+have to is introduced at home as I have to go.
 
-Five seconds later the chunk returns in a new line.
+Five seconds later, in that same lesson, the chunk returns in a new line. The place stays home.
 
-Scene: You and a friend at the station. He asks about her, yesterday.
+Scene: You and a friend at home. He asks about her, yesterday.
 Cue: Он спрашивает про неё, про вчера. Скажи, что надо идти.
-Phrase: She had to wait.
+Phrase: She had to go.
 
-Did she have to wait? is not said.
+Did she have to go? is not said.
 
-The next recall changes the pronoun and the time again.
+The next lesson is at the shop. The chunk returns there in another line.
 
 Scene: You and a friend at the shop. He asks about the two of you, as a decision.
 Cue: Он спрашивает про вас двоих, про решение. Скажи, что надо идти.
 Phrase: We will have to pay.
 
-The same chunk returns at each later point on the schedule. Each point is a new line.
+Will we have to pay? is not said.
+
+Each later point on the schedule is a new line, in the lesson where that point falls.
