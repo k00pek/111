@@ -286,6 +286,7 @@ Then the person and the time.
 - she: про неё
 - they: про них
 - it: про это
+- there: про это
 
 Then «Скажи, что» and the cue column. The cue column is already the line. The sense gloss is not used here. The English chunk stays out.
 

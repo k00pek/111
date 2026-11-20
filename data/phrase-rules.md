@@ -43,7 +43,7 @@ Fill the slot named on the row. In a start scene, and in a recall, the word is t
 
 - none. Nothing follows the chunk.
 - verb. A verb from the B1 word list. After to, and after a modal label, it stays in the base form. keep on, and the verb choice of feel like or get used to, take -ing. In get to do, replace do with that verb.
-- thing, person, place. A noun from the B1 word list. thing or person, thing or verb, and place or verb mean either one fits. none or thing means the sentence can stop without the thing.
+- thing, person, place. A noun from the B1 word list. thing or person, thing or verb, place or verb, and none or thing take the one word named in `data/start-scenes.md`.
 - clause. A short clause. They say it's good.
 - of + thing, with + person, to + place. Say that word before the noun. I'm in favor of the plan. I'll catch up with you. She went back to the shop. home, here, and there take no to.
 - before. The thing or person stands in front of the chunk. I'll bear it in mind. People take it for granted.
