@@ -1,6 +1,6 @@
 # B1 words
 
-3111 headwords from the alphabetical list of the Cambridge B1 Preliminary vocabulary list, August 2025.
+3107 headwords from the alphabetical list of the Cambridge B1 Preliminary vocabulary list, August 2025.
 Cambridge's own last printed total is 3,046 words and phrases, for the 2020 edition. Cambridge does not print a total on the August 2025 list.
 This file keeps the headword only. A slash keeps the other spelling: centre / center. Example sentences from that list are not copied.
 The list is cumulative: it holds A1, A2, and B1 words.
@@ -446,7 +446,6 @@ Kind uses the list's own short labels: n noun, v verb, av auxiliary, mv modal, a
 | card | n |
 | cardboard | adj & n |
 | care | n & v |
-| something | v |
 | career | n |
 | careful | adj |
 | carefully | adv |
@@ -849,7 +848,6 @@ Kind uses the list's own short labels: n noun, v verb, av auxiliary, mv modal, a
 | driver's licence / driver's license | n |
 | driving licence | n |
 | drop | n & v |
-| recently | n |
 | drugstore | n |
 | drum | n |
 | dry | adj & v |
@@ -1225,7 +1223,6 @@ Kind uses the list's own short labels: n noun, v verb, av auxiliary, mv modal, a
 | grandson | n |
 | granny | n |
 | grant | n |
-| Australia | n |
 | grape | n |
 | graphics | n pl |
 | grass | n |
@@ -1919,7 +1916,6 @@ Kind uses the list's own short labels: n noun, v verb, av auxiliary, mv modal, a
 | outside | adv, adj & prep |
 | oven | n |
 | over | adv & prep |
-| of the school | prep |
 | overnight | adj & adv |
 | owe | v |
 | own | adj, pron & v |
@@ -2551,6 +2547,7 @@ Kind uses the list's own short labels: n noun, v verb, av auxiliary, mv modal, a
 | somebody | pron |
 | somehow | adv |
 | someone | pron |
+| something | pron |
 | sometimes | adv |
 | somewhere | adv |
 | son | n |
@@ -2679,7 +2676,6 @@ Kind uses the list's own short labels: n noun, v verb, av auxiliary, mv modal, a
 | supper | n |
 | supply | v |
 | support | n & v |
-| exams | n |
 | supporter | n |
 | suppose | v |
 | sure | adj & adv |
@@ -2689,7 +2685,7 @@ Kind uses the list's own short labels: n noun, v verb, av auxiliary, mv modal, a
 | surname | n |
 | surprise | n & v |
 | surprised | adj |
-| suprising | adj |
+| surprising | adj |
 | surround | v |
 | sweater | n |
 | sweatshirt | n |

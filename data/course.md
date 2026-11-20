@@ -33,12 +33,12 @@ Lesson 30 is the last lesson that introduces a chunk.
 
 ## After the new chunks
 
-Count days from lesson 1. A chunk introduced on day N is due again on day N+1, day N+5, day N+25, and about day N+120. The last of those is the four-month recall in `data/recall.md`.
+Count days from lesson 1. A chunk introduced on day N is due again on day N+1, day N+5, day N+25, and day N+120. The last of those is the four-month recall in `data/recall.md`.
 
 Days 1 to 55 each have a lesson. Day N in that run is lesson N. A chunk from lesson N comes back in lesson N+1, lesson N+5, and lesson N+25.
 
 Days 56 to 120 have no chunk due. Those days have no lesson.
 
-About day 121 the four-month recalls begin. That day is the next lesson after lesson 55. About day 150 is the last lesson. It brings back the chunks introduced on day 30.
+Day 121 is the next lesson after lesson 55. It brings back the chunks introduced on day 1. Day 150 is the last lesson. It brings back the chunks introduced on day 30. Day 121 + k brings back the chunks introduced on day 1 + k. k runs from 0 to 29.
 
 A lesson after day 30 has no new chunk. Build it with `data/lesson.md`. The due lines are the whole lesson.

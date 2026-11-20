@@ -31,7 +31,7 @@ This file does not contain the finished sentences.
 | Chunk | Pattern | Form | Slot | Split | Prompt |
 | --- | --- | --- | --- | --- | --- |
 | would like | subject | would like | thing or verb | none | question |
-| feel like | subject | Present Simple | thing or verb | none | question |
+| feel like | subject | Past Perfect Simple | thing or verb | none | question |
 | make up one's mind | subject | Present Perfect Simple | none | yes | question |
 | care for | subject | Present Simple, not | thing | no | question |
 | fond of | be | Present Simple | thing or person | no | question |
@@ -43,7 +43,7 @@ This file does not contain the finished sentences.
 
 | Chunk | Pattern | Form | Slot | Split | Prompt |
 | --- | --- | --- | --- | --- | --- |
-| think about | subject | Present Continuous | thing or person | no | question |
+| think about | subject | Past Continuous | thing or person | no | question |
 | think so | subject | Present Simple | none | none | question |
 | find out | subject | Present Perfect Simple | clause | yes | question |
 | heard of | subject | Present Perfect Simple | thing or person | no | question |

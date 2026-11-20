@@ -4,7 +4,7 @@ One scene for each chunk that may open a lesson. 157 scenes. The nuclear chunk i
 
 Five chunks wait until the talk is already going: in the end, so far, for good, by now, on one's own.
 
-The next scene takes the next place in the table in `data/start-scenes.md`. The next scene changes the pronoun and the time when the chunk allows it.
+Each scene fixes the first pronoun and the first time of that chunk. The next line of the same chunk takes the next pronoun and the next time in `data/start-scenes.md`. The places go in the order of that file.
 
 ---
 
@@ -242,9 +242,9 @@ Phrase: It was **making sense**.
 ## 34. work out
 
 Scene: You and a friend at the hotel. He asks about him, earlier.
-Other: Had he **worked out** the problem?
+Other: Had he **worked** the problem **out**?
 Cue: Он спрашивает про него, про ещё более раннее. Скажи, что разобраться.
-Phrase: He had **worked out** the problem.
+Phrase: He had **worked** the problem **out**.
 
 ## 35. point out
 
@@ -315,9 +315,9 @@ Phrase: **Keep up**.
 ## 45. give up
 
 Scene: You and a friend at the restaurant. He asks about him, yesterday.
-Other: Did he **give up** music?
+Other: Did he **give** music **up**?
 Cue: Он спрашивает про него, про вчера. Скажи, что бросить это.
-Phrase: He **gave up** music.
+Phrase: He **gave** music **up**.
 
 ## 46. end up
 
@@ -375,9 +375,9 @@ Phrase: They **get back** to the hospital.
 ## 54. take up
 
 Scene: You and a friend at the hotel. He asks about him, now.
-Other: Is he **taking up** music?
+Other: Is he **taking** music **up**?
 Cue: Он спрашивает про него, про то, что идёт сейчас. Скажи, что начать этим заниматься.
-Phrase: He is **taking up** music.
+Phrase: He is **taking** music **up**.
 
 ## 55. get rid of
 
@@ -450,30 +450,30 @@ Phrase: It has **turned out** the shop is closed.
 ## 65. take off
 
 Scene: You and a friend at the restaurant. He asks about you, yesterday.
-Other: Did you **take off** the coat?
+Other: Did you **take** the coat **off**?
 Cue: Он спрашивает про тебя, про вчера. Скажи, что снять это.
-Phrase: I **took off** the coat.
+Phrase: I **took** the coat **off**.
 
 ## 66. turn on
 
 Scene: You and a friend at the cinema. He asks about himself, at that moment.
-Other: Was I **turning on** the phone?
+Other: Was I **turning** the phone **on**?
 Cue: Он спрашивает про друга, про тот момент. Скажи, что включить это.
-Phrase: You were **turning on** the phone.
+Phrase: You were **turning** the phone **on**.
 
 ## 67. switch on
 
 Scene: You and a friend at the station. He asks about the two of you, earlier.
-Other: Had we **switched on** the phone?
+Other: Had we **switched** the phone **on**?
 Cue: Он спрашивает про вас двоих, про ещё более раннее. Скажи, что включить это.
-Phrase: We had **switched on** the phone.
+Phrase: We had **switched** the phone **on**.
 
 ## 68. turn down
 
 Scene: You and a friend at work. He asks about them, as a decision.
-Other: Will they **turn down** the phone?
+Other: Will they **turn** the phone **down**?
 Cue: Он спрашивает про них, про решение. Скажи, что убавить это.
-Phrase: They will **turn down** the phone.
+Phrase: They will **turn** the phone **down**.
 
 ## 69. turn up
 
@@ -492,9 +492,9 @@ Phrase: She **turns into** a problem.
 ## 71. pick up
 
 Scene: You and a friend at the market. He asks about you, now.
-Other: Are you **picking up** fruit?
+Other: Are you **picking** fruit **up**?
 Cue: Он спрашивает про тебя, про то, что идёт сейчас. Скажи, что поднять это.
-Phrase: I am **picking up** fruit.
+Phrase: I am **picking** fruit **up**.
 
 ## 72. look for
 
@@ -658,23 +658,23 @@ Phrase: He **ran out of** money.
 ## 95. sort out
 
 Scene: You and a friend on the beach. He asks about her, at that moment.
-Other: Was she **sorting out** the problem?
+Other: Was she **sorting** the problem **out**?
 Cue: Он спрашивает про неё, про тот момент. Скажи, что уладить это.
-Phrase: She was **sorting out** the problem.
+Phrase: She was **sorting** the problem **out**.
 
 ## 96. fill in
 
 Scene: You and a friend at the airport. He asks about you, earlier.
-Other: Had you **filled in** the form?
+Other: Had you **filled** the form **in**?
 Cue: Он спрашивает про тебя, про ещё более раннее. Скажи, что заполнить это.
-Phrase: I had **filled in** the form.
+Phrase: I had **filled** the form **in**.
 
 ## 97. put up
 
 Scene: You and a friend at the bus stop. He asks about himself, as a decision.
-Other: Will I **put up** the picture?
+Other: Will I **put** the picture **up**?
 Cue: Он спрашивает про друга, про решение. Скажи, что повесить это.
-Phrase: You will **put up** the picture.
+Phrase: You will **put** the picture **up**.
 
 ## 98. put together
 
@@ -686,30 +686,30 @@ Phrase: We are going to **put** the letter **together**.
 ## 99. hand over
 
 Scene: You and a friend at the sports centre. He asks about them, now.
-Other: Do they **hand over** the game?
+Other: Do they **hand** the game **over**?
 Cue: Он спрашивает про них, про сейчас. Скажи, что передать это.
-Phrase: They **hand over** the game.
+Phrase: They **hand** the game **over**.
 
 ## 100. back up
 
 Scene: You and a friend on the phone. He asks about him, now.
-Other: Is he **backing up** the story?
+Other: Is he **backing** the story **up**?
 Cue: Он спрашивает про него, про то, что идёт сейчас. Скажи, что подтвердить.
-Phrase: He is **backing up** the story.
+Phrase: He is **backing** the story **up**.
 
 ## 101. take over
 
 Scene: You and a friend at home. He asks about her, already.
-Other: Has she **taken over** the job?
+Other: Has she **taken** the job **over**?
 Cue: Он спрашивает про неё, про то, что уже есть. Скажи, что взять это на себя.
-Phrase: She has **taken over** the job.
+Phrase: She has **taken** the job **over**.
 
 ## 102. bring up
 
 Scene: You and a friend at school. He asks about you, yesterday.
-Other: Did you **bring up** the problem?
+Other: Did you **bring** the problem **up**?
 Cue: Он спрашивает про тебя, про вчера. Скажи, что поднять тему.
-Phrase: I **brought up** the problem.
+Phrase: I **brought** the problem **up**.
 
 ## 103. take place
 

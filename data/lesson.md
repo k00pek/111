@@ -24,11 +24,11 @@ The lesson also brings back every chunk that is due. The due list and the new li
 
 ## The lines
 
-Build each new chunk's first line with `data/phrase-rules.md` and `data/start-scenes.md`. The place is this lesson's place. Choose the pronoun and the time with those rules.
+Build each new chunk's first line with `data/phrase-rules.md` and `data/start-scenes.md`. The place is this lesson's place. The pronoun and the time are the ones in that chunk's opening scene. One line keeps one chunk, one pronoun, and one time.
 
-The next new chunk uses a different pronoun and a different time, when the chunk allows both. One line keeps one chunk, one pronoun, and one time.
+A chunk with no opening scene takes the next pronoun and the next time after the first line of the previous new chunk. That order is in `data/start-scenes.md`.
 
-A line from an earlier lesson is a recall. Build it with `data/recall.md`. Its place is this lesson's place.
+A line from an earlier lesson is a recall. Build it with `data/recall.md`. Its place is this lesson's place. Its pronoun and its time are the next ones after the previous line of that same chunk.
 
 When the finished line has six or more words, run the build-up in `data/build-up.md` before the learner says the whole line. The cue is said once, not on every step.
 
@@ -72,16 +72,16 @@ Preview: Do you have to go? I have to go.
 
 Teaching starts with the cue. Он спрашивает про тебя, про сейчас. Скажи, что надо идти. The learner says I have to go.
 
-The five-second pass is have to, have got, have to, have got, have got to, ought to, have got to, ought to, going to. One other line stands between have to and its return. The return is She had to go. The cue is Он спрашивает про неё, про вчера. Скажи, что надо идти.
+The five-second pass is have to, have got, have to, have got, have got to, ought to, have got to, ought to, going to. One other line stands between have to and its return. The return is You are having to go. The cue is Он спрашивает про друга, про то, что идёт сейчас. Скажи, что надо идти.
 
-going to is the leftover chunk. The next line is the first line of the twenty-five-second pass: have to, as We will have to go. Then going to comes back. The rest of that pass is have got, have got to, ought to, going to.
+going to is the leftover chunk. The next line is the first line of the twenty-five-second pass: have to, as We have had to go. Then going to comes back, as She is going to go. That chunk keeps the time going to. The pronoun is she. The verb is the home verb. The rest of that pass is have got, have got to, ought to, going to.
 
-The two-minute pass says the five chunks again. have to is They have had to go.
+The two-minute pass says the five chunks again. have to is They had to go.
 
-The ten-minute pass says them once more. have to is You are going to have to go.
+The ten-minute pass says them once more. have to is He was having to go.
 
 On these returns the friend's question is not said. It would contain the chunk.
 
-From its first line, have to comes back after 1 other line, then after 7, then after 12, then after 16. going to comes back after 1, then after 4, then after 8, then after 12.
+From its first line, have to comes back after 1 other line, then after 7, then after 12, then after 16. The pronouns are you, we, they, he. The times are Present Continuous, Present Perfect Simple, Past Simple, Past Continuous. going to comes back after 1, then after 4, then after 8, then after 12.
 
 Close. The cue for the first line is said again. The learner says I have to go.

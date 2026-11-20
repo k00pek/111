@@ -4,11 +4,11 @@ How to build one short sentence from one chunk. This file is the procedure. It i
 
 Take the chunk from `data/nuclear-list.md`. Read its row in `data/chunk-build.md`. Take an open word from `data/b1-words.md`. When the verb is irregular, take the past and the participle from `data/verb-forms.md`. The eight forms are named in `data/b1-tenses.md`.
 
-One chunk makes one sentence. Use one subject and the one form on the row. A start scene chooses the pronoun and the time first. A recall chooses them again for the same chunk. Those choices are in `data/start-scenes.md`. The recall is in `data/recall.md`.
+One chunk makes one sentence. Use one subject and the one form on the row. The opening scene fixes the first pronoun and the first time. A later line takes the next pronoun and the next time in `data/start-scenes.md`. The recall is in `data/recall.md`.
 
 ## Subject
 
-When the pattern needs a subject, use one of: I, you, we, they, he, she, it. A person's name works as he or she. It is for a thing.
+When the pattern needs a subject, use one of: I, you, we, they, he, she, it. It is for a thing.
 
 - I: am, was, have, do
 - you, we, they: are, were, have, do
@@ -35,7 +35,7 @@ A regular verb adds -ed for the past and the past participle. In the Present Sim
 
 These labels stand in the form column on their own: used to, had better, might as well, would like, would, can, could, ought to, imperative, no verb. ", not" means the sentence is negative. I don't care for tea.
 
-Past Continuous and Past Perfect Simple are among the eight. No row names either one as its usual form.
+Past Continuous is the form on think about. Past Perfect Simple is the form on feel like.
 
 ## Slot
 
@@ -52,7 +52,7 @@ Fill the slot named on the row. In a start scene, and in a recall, the word is t
 
 Apply the split mark on the row.
 
-- yes. A pronoun goes between the verb and the particle. I'll pick you up. A noun goes there or after the particle. I'll pick the keys up. I'll pick up the keys. When the slot says before, the word always stands in front. On get back, split applies to the thing, not to the place. I got the book back. I got back to the shop.
+- yes. A pronoun goes between the verb and the particle. I'll pick you up. The slot noun goes between the verb and the particle. I'll pick the keys up. When the slot says before, the word always stands in front. A clause stays after the whole chunk. one's stays in the chunk: I've made up my mind. On get back, split applies to the thing, not to the place. I got the book back. I got back to the shop.
 - no. The word stays after the whole chunk. I'm looking for him. She got on the bus.
 - none. There is no particle to move.
 

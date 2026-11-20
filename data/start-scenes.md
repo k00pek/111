@@ -2,9 +2,9 @@
 
 How to build one opening scene for a lesson. One scene introduces one phrase. This file is the procedure. It is not a list of scenes.
 
-Build the learner's phrase with `data/phrase-rules.md`. Choose the pronoun and the time first. The form on the chunk's row is its usual time. The scene uses another of the eight forms when the rules below allow it.
+Build the learner's phrase with `data/phrase-rules.md`. The first pronoun and the first time are the ones in the opening scene. The form on the chunk's row is its usual time. A later line uses the next pronoun and the next time the rules below allow.
 
-The next scene takes the next place in the place table. It uses a different pronoun and a different time. One scene keeps one chunk, one pronoun, and one time.
+The opening scenes are the list in `data/opening-scenes.md`. Each scene there fixes one chunk, one pronoun, and one time. The next line of that same chunk takes the next pronoun and the next time. That order is below.
 
 Bringing a chunk back, and building a long phrase from its end, are in other files. This file stops at the opening. The build-up is in `data/build-up.md`. The recall is in `data/recall.md`. The lesson that places these lines is in `data/lesson.md`.
 
@@ -55,7 +55,7 @@ bread, milk, time, paper, food, water, money, medicine, fruit, and battery take 
 - place: home, work, and school take no the. She got home. She got to work. She got to school. Every other place takes the. She got to the shop. She got to the beach. head to already has to, and the question drops to before home. She is heading home. Is she heading home? She is heading to school. She is heading to the park. go around uses the shop. She went around the shop. Did she go around the shop?
 - to + place, and to + place or a thing: that place. home, here, and there take no to. She went back to the shop. I went back home. She went back to school. She went back to the beach. The phone is not a place you go back to. go back, come back, and get back use the lesson's place.
 - person, and with + person: you, the friend. he is him, she is her, they is them.
-- thing or person: the thing for the place, for look for and pick up. She is looking for the key. She will pick up the ticket. look after, come up to, hold up, catch up, rely on, take care of, next to, and look like take a person: him when the pronoun is he, her when it is she, them when it is they, and you otherwise. She is looking after him. She looks like her. think about, believe in, fond of, deal with, take for granted, in front of, and heard of take it. She is thinking about it. They believe in it. She is fond of it. She will deal with it. She takes it for granted. She is in front of it. She has heard of it.
+- thing or person: the thing for the place, for look for and pick up. She is looking for the key. She will pick the ticket up. look after, come up to, hold up, catch up, rely on, take care of, next to, and look like take a person: him when the pronoun is he, her when it is she, them when it is they, and you otherwise. She is looking after him. She looks like her. think about, believe in, fond of, deal with, take for granted, in front of, and heard of take it. She is thinking about it. They believe in it. She is fond of it. She will deal with it. She takes it for granted. She is in front of it. She has heard of it.
 - none or thing: the thing for the place. take off at the station or the airport takes no thing, and the cue is «взлететь». At the other places the thing is coat, and the cue stays «снять это». turn up takes no thing. She turned up. Did she turn up?
 - clause: the news sentence for the place. When it is not the start of the line, its first word loses the capital. In a past time, is becomes was. What if the dog is here? I didn't know the dog was here. When the chunk has a particle, the clause stays after the whole chunk. She has found out the dog is here. She pointed out the dog was here. turn out keeps it: It turned out the dog was here. I'm afraid is the refusal I'm afraid not. The news stays in the other person's line. make sure does not use the station, the airport, or the bus stop: you do not make sure that the train, the plane, or the bus is late. She made sure the letter was ready.
 - none: nothing follows the chunk.
@@ -100,9 +100,9 @@ These chunks do not take the thing in the place table.
 
 run out of keeps the chosen place and uses the Run out word. You have run out of milk. You have run out of battery.
 
-turn into takes a, because the result is new. She turned into a problem. come up with takes a: She came up with a plan. go for takes a: She is going for a walk. it, music, and sport take nothing: She got away with it. She took up music. She is good at sport. advice takes the: She acted on the advice. The other words in that table take the.
+turn into takes a, because the result is new. She turned into a problem. come up with takes a: She came up with a plan. go for takes a: She is going for a walk. it, music, and sport take nothing: She got away with it. She took music up. She is good at sport. advice takes the: She acted on the advice. The other words in that table take the.
 
-bear in mind puts it before the particle. She will bear it in mind. put together puts the noun between the verb and together, in the phrase and in the question. She put the letter together. Did she put the letter together? in mind takes the job. She has the job in mind.
+bear in mind puts it before the particle. She will bear it in mind. A split mark of yes puts a noun between the verb and the particle, in the phrase and in the question. She put the letter together. Did she put the letter together? She put the picture up. in mind takes the job. She has the job in mind.
 
 in advance uses the phone, so the verb is call. She will call in advance. Will she call in advance?
 
@@ -116,12 +116,12 @@ A person slot uses the word in the person bullet. I and we use you.
 
 ## Pronoun
 
-Choose one: I, you, we, they, he, she, it.
+The pronouns are I, you, we, they, he, she, it.
 
 - I is the learner.
 - you is the friend.
 - we is the learner and the friend.
-- he or she is the third person. A name works as he or she.
+- he or she is the third person.
 - they is a group.
 - it is a thing.
 
@@ -133,13 +133,13 @@ bound to keeps it, and the verb is work. It is bound to work. It was bound to wo
 
 A chunk that already contains its pronoun keeps that pronoun. I don't know, I think, I don't think, I thought, and I'll tell you what keep I. What do you think?, Do you know?, What do you mean?, and What are you doing? keep you. They say keeps they. It takes, that's it, up to you, take place, no good, to do with, make sense, and turn out keep it. The you inside up to you stays you. It is up to you. It makes sense. in common keeps we. There is / there are keeps there.
 
-When a chunk cannot change its pronoun, the next scene changes the chunk so the pronoun still changes.
+The next pronoun is the next one this chunk can take, in this order: I, you, we, they, he, she, it. Begin after the pronoun of the previous line of this chunk. After it, the next is I. A chunk that keeps one pronoun keeps it. A chunk with no pronoun keeps none.
 
 In the other person's line, I and you change places. The learner's I is the friend's you. The learner's you is the friend's I. we, they, he, she, and it stay the same in both lines.
 
 ## Time
 
-Choose one of the eight forms in `data/b1-tenses.md`.
+The eight forms are in `data/b1-tenses.md`.
 
 The other person's line and the learner's phrase use this same time. The cue names it in Russian, before the learner hears the phrase.
 
@@ -154,20 +154,20 @@ The other person's line and the learner's phrase use this same time. The cue nam
 
 used to uses про раньше. Its scene word is before. Any other row that is not one of the eight uses про сейчас. Its scene word is now.
 
-The scene uses the form on the row. It uses another form only from the list for that pattern.
+A line uses a time from this list. The opening scene already fixed the first one.
 
-- subject or have, when the form column is one of the eight: any of the eight.
+- subject or have, when the form column is one of the eight and the row does not keep that form: any of the eight. question with have takes those same times.
 - be: Present Simple, Past Simple, or will. She is fond of it. She was fond of it. She will be fond of it.
 - there is / there are: Present Simple, Past Simple, will, or going to. There is a key. There was a key. There will be a key.
 - no sign of: Present Simple, Past Simple, Present Perfect Simple, Past Perfect Simple, will, or going to.
-- beside: the time that chunk sets. at the moment and right now are Present Continuous. in advance is will. all the time is Present Simple.
+- beside: the time that chunk sets. at the moment and right now are Present Continuous. in advance is will. all the time is Present Simple. on one's own takes the Past Simple.
 
 Some chunks take fewer times than their pattern.
 
 - meant to takes the Past Simple. I meant to wait.
 - care for keeps the row: Present Simple, negative. She doesn't care for bread.
 - look like takes the Present Simple or the Past Simple. She looks like her. She looked like her.
-- take up does not take the Present Simple. She took up music.
+- take up does not take the Present Simple. She took music up.
 - find out, keep on, turn up, go into, get to do, feel like, bother to, and turn out do not take a continuous form. She has found out the dog is here. She keeps on going. She turned up. She went into it. She got to go. She felt like going. She bothered to go. It turned out the dog was here.
 - supposed to and bound to do not take will. She is supposed to pay. It is bound to work.
 - happen to takes the Present Simple or the Past Simple.
@@ -177,7 +177,9 @@ These keep the form on the row:
 
 - a row marked no verb, such as of course and thank you
 - a row marked imperative
-- a modal label: used to, had better, might as well, would like, would, can, could, ought to
+- a modal label: used to, had better, might as well, would like, would, can, could, ought to, going to
+
+A row in this list does not take another of the eight.
 
 These chunks set the time. The scene uses that time.
 
@@ -188,7 +190,11 @@ These chunks set the time. The scene uses that time.
 - in the end and for good take Past Simple
 - by now takes Present Simple
 
-When a chunk cannot change its time, the next scene changes the chunk so the time still changes.
+The next time is the next one this chunk allows, in this order: Present Simple, Present Continuous, Present Perfect Simple, Past Simple, Past Continuous, Past Perfect Simple, will, going to. Begin after the time of the previous line of this chunk. After going to, the next is Present Simple. A chunk that keeps one time keeps it.
+
+When the previous time is not one of those eight, begin at Present Simple and take the first time the chunk allows.
+
+When the chunk can change neither the pronoun nor the time, the line stays. In a later lesson the slot word is the word for that lesson's place. When the slot is none, that later lesson does not say the line. The four passes of the first lesson say it. That stop is in `data/recall.md`.
 
 ## Scene line
 
