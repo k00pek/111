@@ -139,7 +139,7 @@ This file does not contain the finished sentences.
 | rely on | subject | Present Simple | thing or person | no | question |
 | work on | subject | Present Continuous | thing | no | question |
 | manage to | subject | Past Simple | verb | none | question |
-| afford to | subject | Present Simple | thing or verb | none | question |
+| afford to | subject | can | thing or verb | none | question |
 | happen to | subject | Past Simple | verb | none | question |
 | bother to | subject | Past Simple | verb | none | question |
 | act on | subject | Past Simple | thing | no | question |

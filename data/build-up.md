@@ -33,7 +33,7 @@ Keep a start that falls after the block, on the first word of the block, or befo
 
 Each kept start, through the last word, is one step. The shortest step comes first. The last step is the finished phrase, with its period or question mark. The earlier steps have no period and no question mark.
 
-Say a step. The learner repeats it. Then say the next step.
+Say a step. The learner repeats it. Then say the next step. These steps are part of one line of the lesson. They are not other lines.
 
 ## Examples
 

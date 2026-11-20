@@ -10,7 +10,7 @@ The course fixes the new chunks and their order. That order is in `data/course.m
 
 The places go in this order: home, school, park, shop, restaurant, cinema, station, work, bank, library, market, museum, hospital, hotel, beach, airport, bus stop, post office, sports centre, phone. Then home again. The next lesson takes the next place.
 
-Every line in the lesson uses that place. The slot word is the word for that place in `data/start-scenes.md`.
+Every line in the lesson uses that place. The slot word is the word `data/start-scenes.md` gives that chunk at that place.
 
 ## The chunks
 
@@ -42,9 +42,9 @@ The lesson has three parts.
 
 In the teaching stream, the first line is the first new chunk. Each new chunk comes back four times. The last of the four is still before the close. Two lines of the same chunk are never next to each other.
 
-These four returns are four passes. Count the other lines from the chunk's first line. Only a line of the teaching stream counts. The preview and the close do not. These passes are how the half-hour lesson keeps the four times apart.
+These four returns are four passes. Count the other lines from the chunk's first line. Only a line of the teaching stream counts. The preview, the close, the steps of a build-up, and a repeat after a miss do not. These passes are how the half-hour lesson keeps the four times apart.
 
-Say the chunks due from earlier lessons in front of the three later passes, one line each. Line them up, the chunk introduced longest ago first. Count them. The first of them, as many as the whole number in one seventh of that count, stand in front of the twenty-five-second pass. The next, as many as the whole number in two sevenths of that count, stand in front of the two-minute pass. The next, as many as the whole number in four sevenths of that count, stand in front of the ten-minute pass. Every due chunk still left joins that last group.
+Say the chunks due from earlier lessons in front of the three later passes, one line each. Line them up, the chunk introduced longest ago first. Chunks from the same lesson stay in the order that lesson received them. The first chunk of that lesson comes first. Count them. The first of them, as many as the whole number in one seventh of that count, stand in front of the twenty-five-second pass. The next, as many as the whole number in two sevenths of that count, stand in front of the two-minute pass. The next, as many as the whole number in four sevenths of that count, stand in front of the ten-minute pass. Every due chunk still left joins that last group.
 
 Five seconds. Say the new chunks in pairs, in the order the lesson received them. For a pair, say the first chunk, the second chunk, the first chunk again, then the second chunk again. One other line stands between a chunk and its return.
 
@@ -60,7 +60,7 @@ With five new chunks and nothing due, the other lines from the first line are th
 
 A chunk that waits until the talk is going takes its place in that order. It is never the first line.
 
-A lesson with no new chunk has no preview and no close. The stream is the chunks that are due, one line each. The chunk introduced longest ago comes first. The sitting ends when those lines are said.
+A lesson with no new chunk has no preview and no close. The stream is the chunks that are due, one line each. The chunk introduced longest ago comes first. Chunks from the same lesson stay in the order that lesson received them. The sitting ends when those lines are said.
 
 When the learner does not say the line, run the build-up, then ask this same line once more. That repeat is not the next recall, and it is not one of the other lines. The next recall stays on the schedule in `data/recall.md`.
 

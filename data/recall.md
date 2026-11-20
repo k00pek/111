@@ -14,7 +14,7 @@ Take the next pronoun and the next time after the previous line of this same chu
 
 Of course stays Of course. Thank you stays Thank you. Go on stays Go on. A chunk whose pattern is ready and whose slot is none is the same. The line is the chunk. Say it at the four passes of the lesson that introduces it. Do not bring it back in a later lesson.
 
-The place is the place of the lesson this recall sits in. The slot word is the word for that place.
+The place is the place of the lesson this recall sits in. The slot word is the word `data/start-scenes.md` gives that chunk at that place.
 
 ## Output
 
@@ -53,8 +53,6 @@ A lesson brings back every chunk that is due. The lesson places these lines. Tha
 - A chunk introduced 120 days ago comes back once.
 
 When a recall falls after the last lesson that introduces a chunk, it stays due. It comes in a later lesson. The four-month recall is 120 days after the introduction. The course places that day. That order is in `data/course.md`.
-
-The last recall holds the chunk for more than a year.
 
 A chunk that builds a longer line uses the whole schedule. The ready chunk with no slot stops after the four passes, as the rule above says.
 
