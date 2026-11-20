@@ -40,28 +40,48 @@ The lesson has three parts.
 2. Teaching. One stream of lines, spread through the rest of the sitting. The ten-minute recall still falls inside the thirty minutes.
 3. Close. The new chunks again, in the same order, with the same pronoun and the same time as their first line. Say the cue. The learner says the line. Then say the finished line. Say the friend's line only when it does not contain the chunk.
 
-In the teaching stream, introduce the new chunks in their given order. The first line of the stream is the first new chunk.
+In the teaching stream, the first line is the first new chunk. Each new chunk comes back four times. The last of the four is still before the close. Two lines of the same chunk are never next to each other.
 
-Leave another line between two lines of the same chunk. After a chunk is introduced, one other line is said, and then that chunk comes back. It comes back three more times. Each time, more lines stand between it and the time before. The last of the four is still before the close.
+These four returns are four passes. Count the other lines from the chunk's first line. Only a line of the teaching stream counts. The preview and the close do not. These passes are how the half-hour lesson keeps the four times apart.
 
-The other lines are the chunks due from earlier lessons, one line each. The chunk introduced longest ago comes first. When no earlier chunk is waiting, the other line is the next new chunk.
+Say the chunks due from earlier lessons in front of the three later passes, one line each. Line them up, the chunk introduced longest ago first. Count them. The first of them, as many as the whole number in one seventh of that count, stand in front of the twenty-five-second pass. The next, as many as the whole number in two sevenths of that count, stand in front of the two-minute pass. The next, as many as the whole number in four sevenths of that count, stand in front of the ten-minute pass. Every due chunk still left joins that last group.
 
-A chunk that waits until the talk is going is introduced only after the first new chunk.
+Five seconds. Say the new chunks in pairs, in the order the lesson received them. For a pair, say the first chunk, the second chunk, the first chunk again, then the second chunk again. One other line stands between a chunk and its return.
+
+When one chunk is left after the pairs, say it. Then say the next line of the stream. That line is the first due chunk in front of the twenty-five-second pass, or, when that group is empty, the twenty-five-second return of the first new chunk. Then say the leftover chunk again. That borrowed line is not said again. Then say the rest.
+
+Twenty-five seconds. Say every new chunk once, in the same order.
+
+Two minutes. Say every new chunk once, in the same order.
+
+Ten minutes. Say every new chunk once, in the same order.
+
+With five new chunks and nothing due, the other lines from the first line are these. The first chunk: 1, then 7, then 12, then 16. The second: 1, then 8, then 12, then 16. The third and the fourth: 1, then 6, then 10, then 14. The fifth: 1, then 4, then 8, then 12. Any other lesson uses these same passes. The due groups stand where this section puts them.
+
+A chunk that waits until the talk is going takes its place in that order. It is never the first line.
 
 A lesson with no new chunk has no preview and no close. The stream is the chunks that are due, one line each. The chunk introduced longest ago comes first. The sitting ends when those lines are said.
 
-When the learner does not say the line, run the build-up, then ask this same line once more. That repeat is not the next recall. The next recall stays on the schedule in `data/recall.md`.
+When the learner does not say the line, run the build-up, then ask this same line once more. That repeat is not the next recall, and it is not one of the other lines. The next recall stays on the schedule in `data/recall.md`.
 
 ## Example
 
-The lesson is at home. The first new chunk is have to. Its first line is I have to go.
+The lesson is at home. The new chunks are have to, have got, have got to, ought to, going to. Nothing is due.
 
 Preview: Do you have to go? I have to go.
 
 Teaching starts with the cue. Он спрашивает про тебя, про сейчас. Скажи, что надо идти. The learner says I have to go.
 
-One other line is said. Then have to comes back at home as a new line. She had to go. The cue is Он спрашивает про неё, про вчера. Скажи, что надо идти. Did she have to go? is not said.
+The five-second pass is have to, have got, have to, have got, have got to, ought to, have got to, ought to, going to. One other line stands between have to and its return. The return is She had to go. The cue is Он спрашивает про неё, про вчера. Скажи, что надо идти.
 
-have to comes back three more times before the close, each time a new line, with more lines between.
+going to is the leftover chunk. The next line is the first line of the twenty-five-second pass: have to, as We will have to go. Then going to comes back. The rest of that pass is have got, have got to, ought to, going to.
+
+The two-minute pass says the five chunks again. have to is They have had to go.
+
+The ten-minute pass says them once more. have to is You are going to have to go.
+
+On these returns the friend's question is not said. It would contain the chunk.
+
+From its first line, have to comes back after 1 other line, then after 7, then after 12, then after 16. going to comes back after 1, then after 4, then after 8, then after 12.
 
 Close. The cue for the first line is said again. The learner says I have to go.

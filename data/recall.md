@@ -46,7 +46,7 @@ The lesson is the only sitting that day. The hour and the five hours fall outsid
 
 A lesson brings back every chunk that is due. The lesson places these lines. That order is in `data/lesson.md`.
 
-- A chunk introduced in this lesson comes back at 5 seconds, at 25 seconds, at 2 minutes, and at 10 minutes. These four sit between the other lines, so the gaps are filled.
+- A chunk introduced in this lesson comes back at 5 seconds, at 25 seconds, at 2 minutes, and at 10 minutes. The same lesson says these four in four passes. That order is in `data/lesson.md`.
 - A chunk introduced in the previous lesson comes back once.
 - A chunk introduced five lessons ago comes back once.
 - A chunk introduced twenty-five lessons ago comes back once.
