@@ -1,0 +1,120 @@
+# Verb forms
+
+Irregular verbs whose base form is on the B1 word list, including the first word of a phrasal verb.
+A regular verb adds -ed for the past and the past participle. In the Present Simple, he, she, and it add -s.
+be, do, and have change in the present as well: am / is / are, do / does, have / has.
+Where British and American differ, the American form is the one in the table. The past participle of get is gotten. Burned, dreamed, learned, spelled, smelled, spilled, and spoiled are the American forms. The past of dive is dove or dived. "Lie" meaning not telling the truth is lied. "Lie down" is lay, lain. "Fit" in this table is the American past. Fitted is the past when the meaning is to put something in place. The B1 list has bear as a noun. The chunk bear in mind uses the verb: bore, borne.
+
+| Base | Past | Past participle |
+| --- | --- | --- |
+| babysit | babysat | babysat |
+| be | was / were | been |
+| bear | bore | borne |
+| beat | beat | beaten |
+| become | became | become |
+| begin | began | begun |
+| bite | bit | bitten |
+| bleed | bled | bled |
+| blow | blew | blown |
+| break | broke | broken |
+| bring | brought | brought |
+| build | built | built |
+| burn | burned | burned |
+| buy | bought | bought |
+| catch | caught | caught |
+| choose | chose | chosen |
+| come | came | come |
+| cost | cost | cost |
+| cut | cut | cut |
+| deal | dealt | dealt |
+| dig | dug | dug |
+| dive | dove / dived | dived |
+| do | did | done |
+| draw | drew | drawn |
+| dream | dreamed | dreamed |
+| drink | drank | drunk |
+| drive | drove | driven |
+| eat | ate | eaten |
+| fall | fell | fallen |
+| feed | fed | fed |
+| feel | felt | felt |
+| fight | fought | fought |
+| find | found | found |
+| fit | fit | fit |
+| fly | flew | flown |
+| forget | forgot | forgotten |
+| forgive | forgave | forgiven |
+| freeze | froze | frozen |
+| get | got | gotten |
+| give | gave | given |
+| go | went | gone |
+| grow | grew | grown |
+| hang | hung | hung |
+| have | had | had |
+| hear | heard | heard |
+| hide | hid | hidden |
+| hit | hit | hit |
+| hold | held | held |
+| hurt | hurt | hurt |
+| keep | kept | kept |
+| know | knew | known |
+| lay | laid | laid |
+| lead | led | led |
+| learn | learned | learned |
+| leave | left | left |
+| lend | lent | lent |
+| let | let | let |
+| lie | lied / lay | lied / lain |
+| light | lit | lit |
+| lose | lost | lost |
+| make | made | made |
+| mean | meant | meant |
+| meet | met | met |
+| pay | paid | paid |
+| prove | proved | proven |
+| put | put | put |
+| quit | quit | quit |
+| read | read | read |
+| rebuild | rebuilt | rebuilt |
+| ride | rode | ridden |
+| ring | rang | rung |
+| rise | rose | risen |
+| run | ran | run |
+| say | said | said |
+| see | saw | seen |
+| sell | sold | sold |
+| send | sent | sent |
+| set | set | set |
+| sew | sewed | sewn |
+| shake | shook | shaken |
+| shine | shone | shone |
+| shoot | shot | shot |
+| show | showed | shown |
+| shut | shut | shut |
+| sing | sang | sung |
+| sink | sank | sunk |
+| sit | sat | sat |
+| sleep | slept | slept |
+| smell | smelled | smelled |
+| speak | spoke | spoken |
+| spell | spelled | spelled |
+| spend | spent | spent |
+| spill | spilled | spilled |
+| split | split | split |
+| spoil | spoiled | spoiled |
+| stand | stood | stood |
+| steal | stole | stolen |
+| stick | stuck | stuck |
+| strike | struck | struck |
+| swim | swam | swum |
+| take | took | taken |
+| teach | taught | taught |
+| tear | tore | torn |
+| tell | told | told |
+| think | thought | thought |
+| throw | threw | thrown |
+| understand | understood | understood |
+| wake | woke | woken |
+| wear | wore | worn |
+| win | won | won |
+| write | wrote | written |
