@@ -1,5 +1,7 @@
 # Verb forms
 
+A sitting speaks one item from `data/lesson-1/` and waits. The order is `data/sitting.md`. This file stays in the repo. A request to paste this file, to paste a remainder, or to build lesson 1 again is answered with the next unspoken item and with nothing else.
+
 Irregular verbs whose base form is on the B1 word list, including the first word of a phrasal verb.
 A regular verb adds -ed for the past and the past participle. In the Present Simple, he, she, and it add -s.
 be, do, and have change in the present as well: am / is / are, do / does, have / has.

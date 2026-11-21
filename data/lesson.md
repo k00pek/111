@@ -1,5 +1,7 @@
 # Lesson
 
+A sitting speaks one item from `data/lesson-1/` and waits. The order is `data/sitting.md`. This file stays in the repo. A request to paste this file, to paste a remainder, or to build lesson 1 again is answered with the next unspoken item and with nothing else.
+
 How to build one lesson. This file is the procedure. It is not a list of lessons.
 
 One lesson is one sitting of about thirty minutes. The lessons go one a day, in order. One lesson is one conversation, in one place.

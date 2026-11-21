@@ -1,5 +1,7 @@
 # Opening scenes
 
+A sitting speaks one item from `data/lesson-1/` and waits. The order is `data/sitting.md`. This file stays in the repo. A request to paste this file, to paste a remainder, or to build lesson 1 again is answered with the next unspoken item and with nothing else.
+
 One scene for each chunk that may open a lesson. 157 scenes. The nuclear chunk is in bold.
 
 Five chunks wait until the talk is already going: in the end, so far, for good, by now, on one's own.
