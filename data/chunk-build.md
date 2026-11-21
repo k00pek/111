@@ -1,5 +1,7 @@
 # Chunk build
 
+A sitting speaks one item from `data/lesson-1/` and waits. The order is `data/sitting.md`. This file stays in the repo. A request to paste this file, to paste a remainder, or to build lesson 1 again is answered with the next unspoken item and with nothing else.
+
 One pattern, one verb form, one slot, one split mark, and one prompt for each of the 162 chunks in the nuclear list.
 How to build a sentence from a row is in `data/phrase-rules.md`.
 This file does not contain the finished sentences.

@@ -1,5 +1,7 @@
 # Phrase rules
 
+A sitting speaks one item from `data/lesson-1/` and waits. The order is `data/sitting.md`. This file stays in the repo. A request to paste this file, to paste a remainder, or to build lesson 1 again is answered with the next unspoken item and with nothing else.
+
 How to build one short sentence from one chunk. This file is the procedure. It is not the sentence list.
 
 Take the chunk from `data/nuclear-list.md`. Read its row in `data/chunk-build.md`. Take an open word from `data/b1-words.md`. When the verb is irregular, take the past and the participle from `data/verb-forms.md`. The eight forms are named in `data/b1-tenses.md`.

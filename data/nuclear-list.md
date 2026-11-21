@@ -1,5 +1,7 @@
 # Nuclear list
 
+A sitting speaks one item from `data/lesson-1/` and waits. The order is `data/sitting.md`. This file stays in the repo. A request to paste this file, to paste a remainder, or to build lesson 1 again is answered with the next unspoken item and with nothing else.
+
 Chunks of two to four words. A short spoken reply can be built on each one.
 This file is the nuclear list only. It is not the draft of replies, and it is not the dictionary.
 

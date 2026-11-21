@@ -1,5 +1,7 @@
 # Build-up
 
+A sitting speaks one item from `data/lesson-1/` and waits. The order is `data/sitting.md`. This file stays in the repo. A request to paste this file, to paste a remainder, or to build lesson 1 again is answered with the next unspoken item and with nothing else.
+
 How to build the learner's phrase from its end. This file is the procedure. It is not a list of build-ups.
 
 The phrase is the learner's line from the scene. The other person's line stays as it is. The Russian cue stays as it is. The cue is not said again on each step.
